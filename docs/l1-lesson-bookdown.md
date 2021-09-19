@@ -34,7 +34,7 @@
 
 * Les transcriptions du *English Pronouncing Dictionary*  (@epd) sont aussi acceptées. 
 
-* [adrienmeli.xyz](htps://adrienmeli.xyz)
+* [adrienmeli.xyz](https://adrienmeli.xyz)
 
 
 
@@ -158,7 +158,6 @@ star & 3\\
 \cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Combien de sons consonantiques l'anglais a-t-il ? Combien de ces sons ont des symboles différents des lettres normales ?} & \cellcolor{gray!6}{8 days}\\
 \bottomrule
 \end{longtable}
-
 
 ## References
 
