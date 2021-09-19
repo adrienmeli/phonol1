@@ -76,8 +76,6 @@ La représentation des sons se fait avec les symboles de l'alphabet phonétique 
 
 
 
-
-
 ### Les sons de l'anglais
 
 Les sons de l'anglais sont bien sûr moins nombreux que ceux de la liste établie dans l'API. 
