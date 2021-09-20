@@ -25,9 +25,9 @@ phonème & Le plus petit segment phonique (dépourvu de sens) permettant seul ou
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Combien de sons consonantiques l'anglais a-t-il ? Combien de ces sons ont des symboles différents des lettres normales ?} & \cellcolor{gray!6}{8 days}\\
-25/10/2021 & Examen de mi-semestre (1h) & 36 days\\
-\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)} & \cellcolor{gray!6}{85 days}\\
+\cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Combien de sons différents les mots suivants présentent-ils ?  “have, TV, watch, feeling, push, bag, light, key, laptop, star“} & \cellcolor{gray!6}{7 days}\\
+25/10/2021 & Examen de mi-semestre (1h) & 35 days\\
+\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)} & \cellcolor{gray!6}{84 days}\\
 \bottomrule
 \end{longtable}
 

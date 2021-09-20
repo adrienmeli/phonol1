@@ -19,8 +19,8 @@
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)} & \cellcolor{gray!6}{36 days}\\
-13/12/2021 & Examen de fin de semestre (1h) & 85 days\\
+\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)} & \cellcolor{gray!6}{35 days}\\
+13/12/2021 & Examen de fin de semestre (1h) & 84 days\\
 \bottomrule
 \end{longtable}
 
@@ -119,45 +119,6 @@ star\\
  
 
 
-### Correction
-
-Combien de sons différents entendez-vous dans les mots suivants?
-
-
-
-
-\begin{longtable}{lr}
-\toprule
-Mot & Nombre de sons différents\\
-\midrule
-\cellcolor{gray!6}{have} & \cellcolor{gray!6}{3}\\
-TV & 4\\
-\cellcolor{gray!6}{watch} & \cellcolor{gray!6}{4}\\
-feeling & 5\\
-\cellcolor{gray!6}{push} & \cellcolor{gray!6}{3}\\
-\addlinespace
-bag & 3\\
-\cellcolor{gray!6}{light} & \cellcolor{gray!6}{4}\\
-key & 2\\
-\cellcolor{gray!6}{laptop} & \cellcolor{gray!6}{6}\\
-star & 3\\
-\bottomrule
-\end{longtable}
-
-
- 
-
-
-## Homework
-
-
-\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
-\toprule
-Échéances & Description & Jours restants\\
-\midrule
-\cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Combien de sons consonantiques l'anglais a-t-il ? Combien de ces sons ont des symboles différents des lettres normales ?} & \cellcolor{gray!6}{8 days}\\
-\bottomrule
-\end{longtable}
 
 ## References
 
