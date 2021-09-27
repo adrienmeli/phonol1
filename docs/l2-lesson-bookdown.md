@@ -148,10 +148,10 @@ jive & /1/ & /\textipa{dZaIv}/\\
 ## Homework
 
 
-\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\begin{longtable}{ll}
 \toprule
-Échéances & Description & Jours restants\\
+Échéances & Instructions\\
 \midrule
-\cellcolor{gray!6}{04/10/2021} & \cellcolor{gray!6}{Transcrire les mots suivants:} & \cellcolor{gray!6}{7 days}\\
+\cellcolor{gray!6}{04/10/2021} & \cellcolor{gray!6}{Transcrire les mots suivants:}\\
 \bottomrule
 \end{longtable}
