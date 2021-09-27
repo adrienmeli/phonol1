@@ -148,3 +148,10 @@ jive & /1/ & /\textipa{dZaIv}/\\
 ## Homework
 
 
+\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
+\toprule
+Échéances & Description\\
+\midrule
+\cellcolor{gray!6}{04/10/2021} & \cellcolor{gray!6}{Transcrire les mots donnés en cours.}\\
+\bottomrule
+\end{longtable}
