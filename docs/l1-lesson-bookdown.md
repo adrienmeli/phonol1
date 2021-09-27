@@ -19,8 +19,8 @@
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)} & \cellcolor{gray!6}{35 days}\\
-13/12/2021 & Examen de fin de semestre (1h) & 84 days\\
+\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)} & \cellcolor{gray!6}{28 days}\\
+13/12/2021 & Examen de fin de semestre (1h) & 77 days\\
 \bottomrule
 \end{longtable}
 
