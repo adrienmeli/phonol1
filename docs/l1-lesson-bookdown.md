@@ -15,7 +15,7 @@
 ### Échéances
 
 
-\begin{longtable}{ll}
+\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
 \toprule
 Échéances & Instructions\\
 \midrule
