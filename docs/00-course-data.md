@@ -49,6 +49,18 @@ now & /1/ & /\textipa{naU}/\\
 \cellcolor{gray!6}{wing} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{wIN}/}\\
 shy & /1/ & /\textipa{SaI}/\\
 \addlinespace
+\cellcolor{gray!6}{death} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{deT}/}\\
+shade & /1/ & /\textipa{SeId}/\\
+\cellcolor{gray!6}{cringe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{krIndZ}/}\\
+thread & /1/ & /\textipa{Tred}/\\
+\cellcolor{gray!6}{head} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{hed}/}\\
+\addlinespace
+bathe & /1/ & /\textipa{beID}/\\
+\cellcolor{gray!6}{gem} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZem}/}\\
+chase & /1/ & /\textipa{tSeIs}/\\
+\cellcolor{gray!6}{length} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{leNT}/}\\
+jail & /1/ & /\textipa{dZeI@l}/\\
+\addlinespace
 \cellcolor{gray!6}{inch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{IntS}/}\\
 jade & /1/ & /\textipa{dZeId}/\\
 \cellcolor{gray!6}{sixth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{sIksT}/}\\
@@ -59,28 +71,18 @@ breath & /1/ & /\textipa{breT}/\\
 \cellcolor{gray!6}{jest} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZest}/}\\
 shred & /1/ & /\textipa{Sred}/\\
 \cellcolor{gray!6}{lithe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{laID}/}\\
-death & /1/ & /\textipa{deT}/\\
+thud & /1/ & /\textipa{T2d}/\\
 \addlinespace
-\cellcolor{gray!6}{shade} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{SeId}/}\\
-cringe & /1/ & /\textipa{krIndZ}/\\
-\cellcolor{gray!6}{thread} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Tred}/}\\
-head & /1/ & /\textipa{hed}/\\
-\cellcolor{gray!6}{bathe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{beID}/}\\
+\cellcolor{gray!6}{yank} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{j\ae Nk}/}\\
+thatch & /1/ & /\textipa{T\ae tS}/\\
+\cellcolor{gray!6}{pith} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{pIT}/}\\
+jot & /1/ & /\textipa{dZ6t}/\\
+\cellcolor{gray!6}{much} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{m2tS}/}\\
 \addlinespace
-gem & /1/ & /\textipa{dZem}/\\
-\cellcolor{gray!6}{chase} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tSeIs}/}\\
-length & /1/ & /\textipa{leNT}/\\
-\cellcolor{gray!6}{jail} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZeI@l}/}\\
-jar & /1/ & /\textipa{dZA:}/\\
-\addlinespace
-\cellcolor{gray!6}{cheat} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tSi:t}/}\\
-hive & /1/ & /\textipa{haIv}/\\
-\cellcolor{gray!6}{swine} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{swaIn}/}\\
-though & /1/ & /\textipa{D@U}/\\
-\cellcolor{gray!6}{theme} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Ti:m}/}\\
-\addlinespace
-guard & /1/ & /\textipa{gA:d}/\\
-\cellcolor{gray!6}{mouth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{maUT}/}\\
+yuck & /1/ & /\textipa{j2k}/\\
+\cellcolor{gray!6}{moth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{m6T}/}\\
+shrunk & /1/ & /\textipa{Sr2Nk}/\\
+\cellcolor{gray!6}{pull} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{pUl}/}\\
 \bottomrule
 \end{longtable}
 
@@ -97,7 +99,43 @@ guard & /1/ & /\textipa{gA:d}/\\
 04/10/2021 & Transcrire les mots donnés en cours.\\
 \cellcolor{gray!6}{11/10/2021} & \cellcolor{gray!6}{Trouver dans un dictionnaire la transcription des mots suivants : “hat“, “pet“, “sit“, “not“, “cut“, “put“. Pour chacune de ces voyelles, trouver 5 autres mots comportant au moins une syllabe présentant ces voyelles.}\\
 25/10/2021 & Examen de mi-semestre (1h)\\
-\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)}\\
+\cellcolor{gray!6}{18/11/2021} & \cellcolor{gray!6}{Transcrire les listes de la lesson n°4}\\
+\addlinespace
+13/12/2021 & Examen de fin de semestre (1h)\\
+\cellcolor{gray!6}{thrash} & \cellcolor{gray!6}{}\\
+south & \\
+\cellcolor{gray!6}{pain} & \cellcolor{gray!6}{}\\
+shock & \\
+\addlinespace
+\cellcolor{gray!6}{shut} & \cellcolor{gray!6}{}\\
+then & \\
+\cellcolor{gray!6}{swing} & \cellcolor{gray!6}{}\\
+jam & \\
+\cellcolor{gray!6}{house} & \cellcolor{gray!6}{}\\
+\addlinespace
+throng & \\
+\cellcolor{gray!6}{fridge} & \cellcolor{gray!6}{}\\
+hob & \\
+\cellcolor{gray!6}{shroud} & \cellcolor{gray!6}{}\\
+thrush & \\
+\addlinespace
+\cellcolor{gray!6}{thank} & \cellcolor{gray!6}{}\\
+sounds & \\
+\cellcolor{gray!6}{come} & \cellcolor{gray!6}{}\\
+sunk & \\
+\cellcolor{gray!6}{bathe} & \cellcolor{gray!6}{}\\
+\addlinespace
+shame & \\
+\cellcolor{gray!6}{swung} & \cellcolor{gray!6}{}\\
+ape & \\
+\cellcolor{gray!6}{proud} & \cellcolor{gray!6}{}\\
+range & \\
+\addlinespace
+\cellcolor{gray!6}{head} & \cellcolor{gray!6}{}\\
+pouch & \\
+\cellcolor{gray!6}{dash} & \cellcolor{gray!6}{}\\
+smith & \\
+\cellcolor{gray!6}{vain} & \cellcolor{gray!6}{}\\
 \bottomrule
 \end{longtable}
 
