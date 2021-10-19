@@ -83,6 +83,16 @@ yuck & /1/ & /\textipa{j2k}/\\
 \cellcolor{gray!6}{moth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{m6T}/}\\
 shrunk & /1/ & /\textipa{Sr2Nk}/\\
 \cellcolor{gray!6}{pull} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{pUl}/}\\
+jar & /1/ & /\textipa{dZA:}/\\
+\addlinespace
+\cellcolor{gray!6}{cheat} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tSi:t}/}\\
+hive & /1/ & /\textipa{haIv}/\\
+\cellcolor{gray!6}{swine} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{swaIn}/}\\
+though & /1/ & /\textipa{D@U}/\\
+\cellcolor{gray!6}{theme} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Ti:m}/}\\
+\addlinespace
+guard & /1/ & /\textipa{gA:d}/\\
+\cellcolor{gray!6}{mouth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{maUT}/}\\
 \bottomrule
 \end{longtable}
 
