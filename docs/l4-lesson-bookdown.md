@@ -85,23 +85,26 @@ These vowels are called:
 ### Lax vowels only
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{thud} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{T2d}/}\\
-yank & /1/ & /\textipa{j\ae Nk}/\\
-\cellcolor{gray!6}{thatch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{T\ae tS}/}\\
-pith & /1/ & /\textipa{pIT}/\\
-\cellcolor{gray!6}{jot} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZ6t}/}\\
+\cellcolor{gray!6}{thud}\\
+yank\\
+\cellcolor{gray!6}{thatch}\\
+pith\\
+\cellcolor{gray!6}{jot}\\
 \addlinespace
-much & /1/ & /\textipa{m2tS}/\\
-\cellcolor{gray!6}{yuck} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{j2k}/}\\
-moth & /1/ & /\textipa{m6T}/\\
-\cellcolor{gray!6}{shrunk} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Sr2Nk}/}\\
-pull & /1/ & /\textipa{pUl}/\\
+much\\
+\cellcolor{gray!6}{yuck}\\
+moth\\
+\cellcolor{gray!6}{shrunk}\\
+pull\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 ### All the now-known vowels!
 
@@ -109,7 +112,7 @@ pull & /1/ & /\textipa{pUl}/\\
  
 \begin{longtable}{l}
 \toprule
-\textbf{\textbf{Homework}}\\
+\textbf{\textbf{Words}}\\
 \midrule
 \cellcolor{gray!6}{thrash}\\
 south\\
@@ -131,7 +134,7 @@ throng\\
  
 \begin{longtable}{l}
 \toprule
-\textbf{\textbf{Homework}}\\
+\textbf{\textbf{Words}}\\
 \midrule
 \cellcolor{gray!6}{fridge}\\
 hob\\
@@ -153,7 +156,7 @@ shame\\
  
 \begin{longtable}{l}
 \toprule
-\textbf{\textbf{Homework}}\\
+\textbf{\textbf{Words}}\\
 \midrule
 \cellcolor{gray!6}{swung}\\
 ape\\

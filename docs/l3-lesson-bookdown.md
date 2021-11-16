@@ -33,67 +33,76 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
 ## Correction du travail
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{straight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{streIt}/}\\
-crowd & /1/ & /\textipa{kraUd}/\\
-\cellcolor{gray!6}{thick} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{TIk}/}\\
-shrine & /1/ & /\textipa{SraIn}/\\
-\cellcolor{gray!6}{grape} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{greIp}/}\\
+\cellcolor{gray!6}{straight}\\
+crowd\\
+\cellcolor{gray!6}{thick}\\
+shrine\\
+\cellcolor{gray!6}{grape}\\
 \addlinespace
-child & /1/ & /\textipa{tSaI@ld}/\\
-\cellcolor{gray!6}{proud} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{praUd}/}\\
-hate & /1/ & /\textipa{heIt}/\\
-\cellcolor{gray!6}{spring} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{sprIN}/}\\
-jive & /1/ & /\textipa{dZaIv}/\\
+child\\
+\cellcolor{gray!6}{proud}\\
+hate\\
+\cellcolor{gray!6}{spring}\\
+jive\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 ## Pratique
 
 ### Exercice n°1
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{death} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{deT}/}\\
-shade & /1/ & /\textipa{SeId}/\\
-\cellcolor{gray!6}{cringe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{krIndZ}/}\\
-thread & /1/ & /\textipa{Tred}/\\
-\cellcolor{gray!6}{head} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{hed}/}\\
+\cellcolor{gray!6}{death}\\
+shade\\
+\cellcolor{gray!6}{cringe}\\
+thread\\
+\cellcolor{gray!6}{head}\\
 \addlinespace
-bathe & /1/ & /\textipa{beID}/\\
-\cellcolor{gray!6}{gem} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZem}/}\\
-chase & /1/ & /\textipa{tSeIs}/\\
-\cellcolor{gray!6}{length} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{leNT}/}\\
-jail & /1/ & /\textipa{dZeI@l}/\\
+bathe\\
+\cellcolor{gray!6}{gem}\\
+chase\\
+\cellcolor{gray!6}{length}\\
+jail\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 ### Exercice n°2
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{inch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{IntS}/}\\
-shout & /1/ & /\textipa{SaUt}/\\
-\cellcolor{gray!6}{jade} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZeId}/}\\
-sixth & /1/ & /\textipa{sIksT}/\\
-\cellcolor{gray!6}{thrive} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{TraIv}/}\\
+\cellcolor{gray!6}{inch}\\
+shout\\
+\cellcolor{gray!6}{jade}\\
+sixth\\
+\cellcolor{gray!6}{thrive}\\
 \addlinespace
-think & /1/ & /\textipa{TINk}/\\
-\cellcolor{gray!6}{breath} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{breT}/}\\
-jest & /1/ & /\textipa{dZest}/\\
-\cellcolor{gray!6}{shred} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Sred}/}\\
-lithe & /1/ & /\textipa{laID}/\\
+think\\
+\cellcolor{gray!6}{breath}\\
+jest\\
+\cellcolor{gray!6}{shred}\\
+lithe\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 ## Homework
 

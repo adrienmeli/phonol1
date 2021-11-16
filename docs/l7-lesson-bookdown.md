@@ -78,7 +78,7 @@ page & /1/ & /\textipa{peIdZ}/\\
 
 \begin{longtable}{ll}
 \toprule
-Word & IPA\\
+IPA & Word\\
 \midrule
 \cellcolor{gray!6}{/\textipa{kraUn}/} & \cellcolor{gray!6}{crown}\\
 /\textipa{r@Uv}/ & rove\\
@@ -97,7 +97,7 @@ Word & IPA\\
 
 \begin{longtable}{ll}
 \toprule
-Word & IPA\\
+IPA & Word\\
 \midrule
 \cellcolor{gray!6}{/\textipa{haUl}/} & \cellcolor{gray!6}{howl}\\
 /\textipa{preIz}/ & praise\\
@@ -199,7 +199,7 @@ Nous pouvons donc ajouter à notre arsenal les 3 voyelles suivantes :
  
 \begin{longtable}{l}
 \toprule
-\textbf{\textbf{Homework}}\\
+\textbf{\textbf{Words}}\\
 \midrule
 \cellcolor{gray!6}{chart}\\
 shard\\
@@ -221,7 +221,7 @@ worth\\
  
 \begin{longtable}{l}
 \toprule
-\textbf{\textbf{Homework}}\\
+\textbf{\textbf{Words}}\\
 \midrule
 \cellcolor{gray!6}{child}\\
 shirt\\
@@ -244,7 +244,7 @@ trace\\
 
 \begin{longtable}{l}
 \toprule
-Homework\\
+IPA\\
 \midrule
 \cellcolor{gray!6}{/\textipa{mO:}/}\\
 /\textipa{eIp}/\\
@@ -263,7 +263,7 @@ Homework\\
 
 \begin{longtable}{l}
 \toprule
-Homework\\
+IPA\\
 \midrule
 \cellcolor{gray!6}{/\textipa{klaIm}/}\\
 /\textipa{wO:n}/\\
