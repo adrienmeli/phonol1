@@ -119,41 +119,6 @@ NULL
 \addlinespace
 22/11/2021 & Faire le travail de la leçon n°8\\
 \cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)}\\
-thrash & \\
-\cellcolor{gray!6}{south} & \cellcolor{gray!6}{}\\
-pain & \\
-\addlinespace
-\cellcolor{gray!6}{shock} & \cellcolor{gray!6}{}\\
-shut & \\
-\cellcolor{gray!6}{then} & \cellcolor{gray!6}{}\\
-swing & \\
-\cellcolor{gray!6}{jam} & \cellcolor{gray!6}{}\\
-\addlinespace
-house & \\
-\cellcolor{gray!6}{throng} & \cellcolor{gray!6}{}\\
-fridge & \\
-\cellcolor{gray!6}{hob} & \cellcolor{gray!6}{}\\
-shroud & \\
-\addlinespace
-\cellcolor{gray!6}{thrush} & \cellcolor{gray!6}{}\\
-thank & \\
-\cellcolor{gray!6}{sounds} & \cellcolor{gray!6}{}\\
-come & \\
-\cellcolor{gray!6}{sunk} & \cellcolor{gray!6}{}\\
-\addlinespace
-bathe & \\
-\cellcolor{gray!6}{shame} & \cellcolor{gray!6}{}\\
-swung & \\
-\cellcolor{gray!6}{ape} & \cellcolor{gray!6}{}\\
-proud & \\
-\addlinespace
-\cellcolor{gray!6}{range} & \cellcolor{gray!6}{}\\
-head & \\
-\cellcolor{gray!6}{pouch} & \cellcolor{gray!6}{}\\
-dash & \\
-\cellcolor{gray!6}{smith} & \cellcolor{gray!6}{}\\
-\addlinespace
-vain & \\
 \bottomrule
 \end{longtable}
 
