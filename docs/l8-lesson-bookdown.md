@@ -207,6 +207,9 @@ IPA\\
 /\textipa{Tr6b}/\\
 \bottomrule
 \end{longtable}
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -228,6 +231,9 @@ feet\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  

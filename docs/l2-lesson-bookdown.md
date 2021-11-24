@@ -103,6 +103,9 @@ Pour cet exercice, nous allons utiliser les voyelles suivantes :
 *  /\textipa{aI}/ comme dans "site".
 *  /\textipa{aU}/ comme dans "now".
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -126,6 +129,9 @@ shy\\
 ---
 
 \pagebreak
+
+Listen to the following words and transcribe them:
+
 
 
  

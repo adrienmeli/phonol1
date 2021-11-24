@@ -32,6 +32,9 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
 
 ## Correction du travail
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -58,6 +61,9 @@ jive\\
 
 ### Exercice n°1
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -81,6 +87,9 @@ jail\\
 ---
 
 ### Exercice n°2
+
+Listen to the following words and transcribe them:
+
 
 
  

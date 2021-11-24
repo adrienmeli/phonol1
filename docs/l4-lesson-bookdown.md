@@ -84,6 +84,9 @@ These vowels are called:
 
 ### Lax vowels only
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -108,6 +111,9 @@ pull\\
 
 ### All the now-known vowels!
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -130,6 +136,9 @@ throng\\
 
 ---
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -151,6 +160,9 @@ shame\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  

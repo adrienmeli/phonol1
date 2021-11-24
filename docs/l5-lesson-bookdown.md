@@ -4,6 +4,9 @@
 
 ### All the now-known vowels!
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -26,6 +29,9 @@ throng\\
 
 ---
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -47,6 +53,9 @@ shame\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  
@@ -77,6 +86,9 @@ Pouve-vous trouver des mots qui se prononcent avec des voyelles non vues en cour
 
 
 ## Trois nouvelles voyelles
+
+Listen to the following words and transcribe them:
+
 
 
  

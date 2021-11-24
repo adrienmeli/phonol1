@@ -188,6 +188,9 @@ IPA\\
 \bottomrule
 \end{longtable}
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -209,6 +212,9 @@ whale\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  

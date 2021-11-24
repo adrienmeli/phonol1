@@ -195,6 +195,9 @@ Nous pouvons donc ajouter à notre arsenal les 3 voyelles suivantes :
 
 ### Exercices : transcription
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -216,6 +219,9 @@ worth\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  
