@@ -84,30 +84,24 @@ These vowels are called:
 
 ### Lax vowels only
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{thud}\\
-yank\\
-\cellcolor{gray!6}{thatch}\\
-pith\\
-\cellcolor{gray!6}{jot}\\
+\cellcolor{gray!6}{thud} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{T2d}/}\\
+yank & /1/ & /\textipa{j\ae Nk}/\\
+\cellcolor{gray!6}{thatch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{T\ae tS}/}\\
+pith & /1/ & /\textipa{pIT}/\\
+\cellcolor{gray!6}{jot} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZ6t}/}\\
 \addlinespace
-much\\
-\cellcolor{gray!6}{yuck}\\
-moth\\
-\cellcolor{gray!6}{shrunk}\\
-pull\\
+much & /1/ & /\textipa{m2tS}/\\
+\cellcolor{gray!6}{yuck} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{j2k}/}\\
+moth & /1/ & /\textipa{m6T}/\\
+\cellcolor{gray!6}{shrunk} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Sr2Nk}/}\\
+pull & /1/ & /\textipa{pUl}/\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 ### All the now-known vowels!
 

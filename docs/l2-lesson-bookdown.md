@@ -103,57 +103,45 @@ Pour cet exercice, nous allons utiliser les voyelles suivantes :
 *  /\textipa{aI}/ comme dans "site".
 *  /\textipa{aU}/ comme dans "now".
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{faith}\\
-doubt\\
-\cellcolor{gray!6}{shout}\\
-right\\
-\cellcolor{gray!6}{age}\\
+\cellcolor{gray!6}{faith} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{feIT}/}\\
+doubt & /1/ & /\textipa{daUt}/\\
+\cellcolor{gray!6}{shout} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{SaUt}/}\\
+right & /1/ & /\textipa{raIt}/\\
+\cellcolor{gray!6}{age} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{eIdZ}/}\\
 \addlinespace
-thing\\
-\cellcolor{gray!6}{face}\\
-now\\
-\cellcolor{gray!6}{wing}\\
-shy\\
+thing & /1/ & /\textipa{TIN}/\\
+\cellcolor{gray!6}{face} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{feIs}/}\\
+now & /1/ & /\textipa{naU}/\\
+\cellcolor{gray!6}{wing} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{wIN}/}\\
+shy & /1/ & /\textipa{SaI}/\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 \pagebreak
 
-Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{straight}\\
-crowd\\
-\cellcolor{gray!6}{thick}\\
-shrine\\
-\cellcolor{gray!6}{grape}\\
+\cellcolor{gray!6}{straight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{streIt}/}\\
+crowd & /1/ & /\textipa{kraUd}/\\
+\cellcolor{gray!6}{thick} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{TIk}/}\\
+shrine & /1/ & /\textipa{SraIn}/\\
+\cellcolor{gray!6}{grape} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{greIp}/}\\
 \addlinespace
-child\\
-\cellcolor{gray!6}{proud}\\
-hate\\
-\cellcolor{gray!6}{spring}\\
-jive\\
+child & /1/ & /\textipa{tSaI@ld}/\\
+\cellcolor{gray!6}{proud} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{praUd}/}\\
+hate & /1/ & /\textipa{heIt}/\\
+\cellcolor{gray!6}{spring} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{sprIN}/}\\
+jive & /1/ & /\textipa{dZaIv}/\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 
 

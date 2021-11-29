@@ -113,7 +113,8 @@ guard & /1/ & /\textipa{gA:d}/\\
 \addlinespace
 22/11/2021 & Faire le travail de la leçon n°8\\
 \cellcolor{gray!6}{29/11/2021} & \cellcolor{gray!6}{Faire le travail de la leçon n°9}\\
-13/12/2021 & Examen de fin de semestre (1h)\\
+06/12/2021 & Faire les devoirs de la leçon 10.\\
+\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)}\\
 \bottomrule
 \end{longtable}
 
