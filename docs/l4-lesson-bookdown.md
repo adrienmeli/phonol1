@@ -87,7 +87,7 @@ These vowels are called:
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{thud} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{T2d}/}\\
 yank & /1/ & /\textipa{j\ae Nk}/\\

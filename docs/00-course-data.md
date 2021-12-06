@@ -23,7 +23,7 @@ phonème & Le plus petit segment phonique (dépourvu de sens) permettant seul ou
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{straight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{streIt}/}\\
 crowd & /1/ & /\textipa{kraUd}/\\

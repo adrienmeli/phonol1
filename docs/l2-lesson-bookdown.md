@@ -106,7 +106,7 @@ Pour cet exercice, nous allons utiliser les voyelles suivantes :
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{faith} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{feIT}/}\\
 doubt & /1/ & /\textipa{daUt}/\\
@@ -127,7 +127,7 @@ shy & /1/ & /\textipa{SaI}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{straight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{streIt}/}\\
 crowd & /1/ & /\textipa{kraUd}/\\

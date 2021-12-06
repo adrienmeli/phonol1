@@ -40,7 +40,7 @@ Comparez :
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{rub} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{r2b}/}\\
 lid & /1/ & /\textipa{lId}/\\
@@ -59,7 +59,7 @@ gauge & /1/ & /\textipa{geIdZ}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{badge} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{b\ae dZ}/}\\
 drown & /1/ & /\textipa{draUn}/\\
@@ -116,7 +116,7 @@ IPA & Word\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{cuss} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{k2s}/}\\
 close & /1/ & /\textipa{kl@Us}/\\
@@ -134,7 +134,7 @@ trill & /1/ & /\textipa{trIl}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{shrimp} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{SrImp}/}\\
 frig & /1/ & /\textipa{frIg}/\\
@@ -167,7 +167,7 @@ Ces mots ont-ils un point commun ?
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{car} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{kA:}/}\\
 her & /1/ & /\textipa{h3:}/\\

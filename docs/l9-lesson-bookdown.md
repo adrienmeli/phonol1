@@ -44,7 +44,7 @@ IPA & Word\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{lap} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l\ae p}/}\\
 crash & /1/ & /\textipa{kr\ae S}/\\
@@ -63,7 +63,7 @@ feet & /1/ & /\textipa{fi:t}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{stuff} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{st2f}/}\\
 bane & /1/ & /\textipa{beIn}/\\
@@ -130,7 +130,7 @@ IPA & Word\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{smirch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{sm3:tS}/}\\
 scarce & /1/ & /\textipa{ske@s}/\\

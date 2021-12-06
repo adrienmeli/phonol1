@@ -7,7 +7,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{thrash} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Tr\ae S}/}\\
 south & /1/ & /\textipa{saUT}/\\
@@ -26,7 +26,7 @@ throng & /1/ & /\textipa{Tr6N}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{fridge} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{frIdZ}/}\\
 hob & /1/ & /\textipa{h6b}/\\
@@ -45,7 +45,7 @@ shame & /1/ & /\textipa{SeIm}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{swung} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{sw2N}/}\\
 ape & /1/ & /\textipa{eIp}/\\

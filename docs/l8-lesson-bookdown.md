@@ -9,7 +9,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{chart} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tSA:t}/}\\
 shard & /1/ & /\textipa{SA:d}/\\
@@ -28,7 +28,7 @@ worth & /1/ & /\textipa{w3:T}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{child} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tSaI@ld}/}\\
 shirt & /1/ & /\textipa{S3:t}/\\
@@ -133,7 +133,7 @@ IPA & Word\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{art} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{A:t}/}\\
 wedge & /1/ & /\textipa{wedZ}/\\
@@ -152,7 +152,7 @@ sheet & /1/ & /\textipa{Si:t}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{peek} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{pi:k}/}\\
 rung & /1/ & /\textipa{r2N}/\\

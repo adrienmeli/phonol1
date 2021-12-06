@@ -35,7 +35,7 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{straight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{streIt}/}\\
 crowd & /1/ & /\textipa{kraUd}/\\
@@ -58,7 +58,7 @@ jive & /1/ & /\textipa{dZaIv}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{death} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{deT}/}\\
 shade & /1/ & /\textipa{SeId}/\\
@@ -79,7 +79,7 @@ jail & /1/ & /\textipa{dZeI@l}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{inch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{IntS}/}\\
 shout & /1/ & /\textipa{SaUt}/\\

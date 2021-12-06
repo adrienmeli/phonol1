@@ -47,7 +47,7 @@ IPA & Word\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{throw} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Tr@U}/}\\
 burnt & /1/ & /\textipa{b3:nt}/\\
@@ -66,7 +66,7 @@ whale & /1/ & /\textipa{weI@l}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{earth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{3:T}/}\\
 stroke & /1/ & /\textipa{str@Uk}/\\
@@ -108,7 +108,7 @@ IPA & Word\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{folk} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{f@Uk}/}\\
 gnat & /1/ & /\textipa{n\ae t}/\\
@@ -137,7 +137,7 @@ Transcrivez les mots suivants et expliquez pourquoi ces mots sont des exceptions
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{bold} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{b@Uld}/}\\
 both & /1/ & /\textipa{b@UT}/\\
@@ -156,7 +156,7 @@ month & /1/ & /\textipa{m2nT}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{most} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{m@Ust}/}\\
 old & /1/ & /\textipa{@Uld}/\\
