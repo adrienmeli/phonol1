@@ -6,43 +6,17 @@
 
 ### Practice... With all vowels!
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{tSes}/\hfill\textit{\textbf{chess\hspace*{0.5cm}}}\item /\textipa{waIt}/\hfill\textit{\textbf{white\hspace*{0.5cm}}}\item /\textipa{dZOIn}/\hfill\textit{\textbf{join\hspace*{0.5cm}}}\item /\textipa{De@}/\hfill\textit{\textbf{there\hspace*{0.5cm}}}\item /\textipa{lu:z}/\hfill\textit{\textbf{lose\hspace*{0.5cm}}}\item /\textipa{w3:st}/\hfill\textit{\textbf{worst\hspace*{0.5cm}}}\item /\textipa{ni:}/\hfill\textit{\textbf{knee\hspace*{0.5cm}}}\item /\textipa{b@UT}/\hfill\textit{\textbf{both\hspace*{0.5cm}}}\item /\textipa{bUS}/\hfill\textit{\textbf{bush\hspace*{0.5cm}}}\item /\textipa{s2tS}/\hfill\textit{\textbf{such\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{tSes}/} & \cellcolor{gray!6}{chess}\\
-/\textipa{waIt}/ & white\\
-\cellcolor{gray!6}{/\textipa{dZOIn}/} & \cellcolor{gray!6}{join}\\
-/\textipa{De@}/ & there\\
-\cellcolor{gray!6}{/\textipa{lu:z}/} & \cellcolor{gray!6}{lose}\\
-\addlinespace
-/\textipa{w3:st}/ & worst\\
-\cellcolor{gray!6}{/\textipa{ni:}/} & \cellcolor{gray!6}{knee}\\
-/\textipa{b@UT}/ & both\\
-\cellcolor{gray!6}{/\textipa{bUS}/} & \cellcolor{gray!6}{bush}\\
-/\textipa{s2tS}/ & such\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{Self}/} & \cellcolor{gray!6}{shelf}\\
-/\textipa{stu:l}/ & stool\\
-\cellcolor{gray!6}{/\textipa{gr@Uz}/} & \cellcolor{gray!6}{grows}\\
-/\textipa{SUd}/ & should\\
-\cellcolor{gray!6}{/\textipa{h@Upt}/} & \cellcolor{gray!6}{hoped}\\
-\addlinespace
-/\textipa{m2tS}/ & much\\
-\cellcolor{gray!6}{/\textipa{Se@}/} & \cellcolor{gray!6}{share}\\
-/\textipa{TO:t}/ & thought\\
-\cellcolor{gray!6}{/\textipa{tru:}/} & \cellcolor{gray!6}{true}\\
-/\textipa{Tru:}/ & through\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{Self}/\hfill\textit{\textbf{shelf\hspace*{0.5cm}}}\item /\textipa{stu:l}/\hfill\textit{\textbf{stool\hspace*{0.5cm}}}\item /\textipa{gr@Uz}/\hfill\textit{\textbf{grows\hspace*{0.5cm}}}\item /\textipa{SUd}/\hfill\textit{\textbf{should\hspace*{0.5cm}}}\item /\textipa{h@Upt}/\hfill\textit{\textbf{hoped\hspace*{0.5cm}}}\item /\textipa{m2tS}/\hfill\textit{\textbf{much\hspace*{0.5cm}}}\item /\textipa{Se@}/\hfill\textit{\textbf{share\hspace*{0.5cm}}}\item /\textipa{TO:t}/\hfill\textit{\textbf{thought\hspace*{0.5cm}}}\item /\textipa{tru:}/\hfill\textit{\textbf{true\hspace*{0.5cm}}}\item /\textipa{Tru:}/\hfill\textit{\textbf{through\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
 
 \begin{longtable}{lll}
@@ -86,24 +60,11 @@ squint & /1/ & /\textipa{skwInt}/\\
 
 The following lists of words all contain silent letters. Can you identify them?
 
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{aI@l}/} & \cellcolor{gray!6}{aisle}\\
-/\textipa{kUd}/ & could\\
-\cellcolor{gray!6}{/\textipa{kr2m}/} & \cellcolor{gray!6}{crumb}\\
-/\textipa{d\ae m}/ & damn\\
-\cellcolor{gray!6}{/\textipa{det}/} & \cellcolor{gray!6}{debt}\\
-\addlinespace
-/\textipa{b6m}/ & bomb\\
-\cellcolor{gray!6}{/\textipa{daUt}/} & \cellcolor{gray!6}{doubt}\\
-/\textipa{kA:m}/ & calm\\
-\cellcolor{gray!6}{/\textipa{d2m}/} & \cellcolor{gray!6}{dumb}\\
-/\textipa{tSO:k}/ & chalk\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{aI@l}/\hfill\textit{\textbf{aisle\hspace*{0.5cm}}}\item /\textipa{kUd}/\hfill\textit{\textbf{could\hspace*{0.5cm}}}\item /\textipa{kr2m}/\hfill\textit{\textbf{crumb\hspace*{0.5cm}}}\item /\textipa{d\ae m}/\hfill\textit{\textbf{damn\hspace*{0.5cm}}}\item /\textipa{det}/\hfill\textit{\textbf{debt\hspace*{0.5cm}}}\item /\textipa{b6m}/\hfill\textit{\textbf{bomb\hspace*{0.5cm}}}\item /\textipa{daUt}/\hfill\textit{\textbf{doubt\hspace*{0.5cm}}}\item /\textipa{kA:m}/\hfill\textit{\textbf{calm\hspace*{0.5cm}}}\item /\textipa{d2m}/\hfill\textit{\textbf{dumb\hspace*{0.5cm}}}\item /\textipa{tSO:k}/\hfill\textit{\textbf{chalk\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
 
 \begin{longtable}{lll}
@@ -174,43 +135,17 @@ womb & /1/ & /\textipa{wu:m}/\\
 
 ## Homework
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{l\ae g}/{\tiny\dotfill}\item /\textipa{gl6s}/{\tiny\dotfill}\item /\textipa{spOI@lt}/{\tiny\dotfill}\item /\textipa{Tr@Ut}/{\tiny\dotfill}\item /\textipa{graUnd}/{\tiny\dotfill}\item /\textipa{w3:ld}/{\tiny\dotfill}\item /\textipa{pO:k}/{\tiny\dotfill}\item /\textipa{skwi:z}/{\tiny\dotfill}\item /\textipa{wu:nd}/{\tiny\dotfill}\item /\textipa{sk@Uld}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{l\ae g}/}\\
-/\textipa{gl6s}/\\
-\cellcolor{gray!6}{/\textipa{spOI@lt}/}\\
-/\textipa{Tr@Ut}/\\
-\cellcolor{gray!6}{/\textipa{graUnd}/}\\
-\addlinespace
-/\textipa{w3:ld}/\\
-\cellcolor{gray!6}{/\textipa{pO:k}/}\\
-/\textipa{skwi:z}/\\
-\cellcolor{gray!6}{/\textipa{wu:nd}/}\\
-/\textipa{sk@Uld}/\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{TO:n}/}\\
-/\textipa{r6N}/\\
-\cellcolor{gray!6}{/\textipa{skri:n}/}\\
-/\textipa{pItS}/\\
-\cellcolor{gray!6}{/\textipa{su:p}/}\\
-\addlinespace
-/\textipa{daIz}/\\
-\cellcolor{gray!6}{/\textipa{st@Ul}/}\\
-/\textipa{sleIv}/\\
-\cellcolor{gray!6}{/\textipa{sp3:}/}\\
-/\textipa{sIN}/\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{TO:n}/{\tiny\dotfill}\item /\textipa{r6N}/{\tiny\dotfill}\item /\textipa{skri:n}/{\tiny\dotfill}\item /\textipa{pItS}/{\tiny\dotfill}\item /\textipa{su:p}/{\tiny\dotfill}\item /\textipa{daIz}/{\tiny\dotfill}\item /\textipa{st@Ul}/{\tiny\dotfill}\item /\textipa{sleIv}/{\tiny\dotfill}\item /\textipa{sp3:}/{\tiny\dotfill}\item /\textipa{sIN}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
 Listen to the following words and transcribe them:
 

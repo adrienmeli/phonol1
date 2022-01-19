@@ -148,153 +148,54 @@ Dans les deux exercices suivants, retrouvez l'orthographe à partir des transcri
 
 
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{kept}/\hfill\textit{\textbf{kept\hspace*{0.5cm}}}\item /\textipa{hIz}/\hfill\textit{\textbf{his\hspace*{0.5cm}}}\item /\textipa{gr\ae d}/\hfill\textit{\textbf{grad\hspace*{0.5cm}}}\item /\textipa{peI}/\hfill\textit{\textbf{pay\hspace*{0.5cm}}}\item /\textipa{hIndZ}/\hfill\textit{\textbf{hinge\hspace*{0.5cm}}}\item /\textipa{TIN}/\hfill\textit{\textbf{thing\hspace*{0.5cm}}}\item /\textipa{wUlf}/\hfill\textit{\textbf{wolf\hspace*{0.5cm}}}\item /\textipa{fleIk}/\hfill\textit{\textbf{flake\hspace*{0.5cm}}}\item /\textipa{lu:m}/\hfill\textit{\textbf{loom\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{kept}/} & \cellcolor{gray!6}{kept}\\
-/\textipa{hIz}/ & his\\
-\cellcolor{gray!6}{/\textipa{gr\ae d}/} & \cellcolor{gray!6}{grad}\\
-/\textipa{peI}/ & pay\\
-\cellcolor{gray!6}{/\textipa{hIndZ}/} & \cellcolor{gray!6}{hinge}\\
-\addlinespace
-/\textipa{TIN}/ & thing\\
-\cellcolor{gray!6}{/\textipa{wUlf}/} & \cellcolor{gray!6}{wolf}\\
-/\textipa{fleIk}/ & flake\\
-\cellcolor{gray!6}{/\textipa{lu:m}/} & \cellcolor{gray!6}{loom}\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{streNT}/\hfill\textit{\textbf{strength\hspace*{0.5cm}}}\item /\textipa{blaInd}/\hfill\textit{\textbf{blind\hspace*{0.5cm}}}\item /\textipa{tS2g}/\hfill\textit{\textbf{chug\hspace*{0.5cm}}}\item /\textipa{treId}/\hfill\textit{\textbf{trade\hspace*{0.5cm}}}\item /\textipa{raIt}/\hfill\textit{\textbf{write\hspace*{0.5cm}}}\item /\textipa{si:}/\hfill\textit{\textbf{see\hspace*{0.5cm}}}\item /\textipa{dek}/\hfill\textit{\textbf{deck\hspace*{0.5cm}}}\item /\textipa{dZ\ae z}/\hfill\textit{\textbf{jazz\hspace*{0.5cm}}}\item /\textipa{gli:}/\hfill\textit{\textbf{glee\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{r2b}/\hfill\textit{\textbf{rub\hspace*{0.5cm}}}\item /\textipa{lId}/\hfill\textit{\textbf{lid\hspace*{0.5cm}}}\item /\textipa{tu:Tt}/\hfill\textit{\textbf{toothed\hspace*{0.5cm}}}\item /\textipa{str6p}/\hfill\textit{\textbf{strop\hspace*{0.5cm}}}\item /\textipa{S@U}/\hfill\textit{\textbf{show\hspace*{0.5cm}}}\item /\textipa{dZ\ae g}/\hfill\textit{\textbf{jag\hspace*{0.5cm}}}\item /\textipa{tSeIndZ}/\hfill\textit{\textbf{change\hspace*{0.5cm}}}\item /\textipa{r@Ub}/\hfill\textit{\textbf{robe\hspace*{0.5cm}}}\item /\textipa{slaIm}/\hfill\textit{\textbf{slime\hspace*{0.5cm}}}\item /\textipa{geIdZ}/\hfill\textit{\textbf{gauge\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{streNT}/} & \cellcolor{gray!6}{strength}\\
-/\textipa{blaInd}/ & blind\\
-\cellcolor{gray!6}{/\textipa{tS2g}/} & \cellcolor{gray!6}{chug}\\
-/\textipa{treId}/ & trade\\
-\cellcolor{gray!6}{/\textipa{raIt}/} & \cellcolor{gray!6}{write}\\
-\addlinespace
-/\textipa{si:}/ & see\\
-\cellcolor{gray!6}{/\textipa{dek}/} & \cellcolor{gray!6}{deck}\\
-/\textipa{dZ\ae z}/ & jazz\\
-\cellcolor{gray!6}{/\textipa{gli:}/} & \cellcolor{gray!6}{glee}\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{b\ae dZ}/\hfill\textit{\textbf{badge\hspace*{0.5cm}}}\item /\textipa{draUn}/\hfill\textit{\textbf{drown\hspace*{0.5cm}}}\item /\textipa{tSu:}/\hfill\textit{\textbf{chew\hspace*{0.5cm}}}\item /\textipa{naIs}/\hfill\textit{\textbf{nice\hspace*{0.5cm}}}\item /\textipa{h2ntS}/\hfill\textit{\textbf{hunch\hspace*{0.5cm}}}\item /\textipa{fIlT}/\hfill\textit{\textbf{filth\hspace*{0.5cm}}}\item /\textipa{g2Nk}/\hfill\textit{\textbf{gunk\hspace*{0.5cm}}}\item /\textipa{Sri:k}/\hfill\textit{\textbf{shriek\hspace*{0.5cm}}}\item /\textipa{SrIl}/\hfill\textit{\textbf{shrill\hspace*{0.5cm}}}\item /\textipa{peIdZ}/\hfill\textit{\textbf{page\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{r2b}/} & \cellcolor{gray!6}{rub}\\
-/\textipa{lId}/ & lid\\
-\cellcolor{gray!6}{/\textipa{tu:Tt}/} & \cellcolor{gray!6}{toothed}\\
-/\textipa{str6p}/ & strop\\
-\cellcolor{gray!6}{/\textipa{S@U}/} & \cellcolor{gray!6}{show}\\
-\addlinespace
-/\textipa{dZ\ae g}/ & jag\\
-\cellcolor{gray!6}{/\textipa{tSeIndZ}/} & \cellcolor{gray!6}{change}\\
-/\textipa{r@Ub}/ & robe\\
-\cellcolor{gray!6}{/\textipa{slaIm}/} & \cellcolor{gray!6}{slime}\\
-/\textipa{geIdZ}/ & gauge\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{b\ae dZ}/} & \cellcolor{gray!6}{badge}\\
-/\textipa{draUn}/ & drown\\
-\cellcolor{gray!6}{/\textipa{tSu:}/} & \cellcolor{gray!6}{chew}\\
-/\textipa{naIs}/ & nice\\
-\cellcolor{gray!6}{/\textipa{h2ntS}/} & \cellcolor{gray!6}{hunch}\\
-\addlinespace
-/\textipa{fIlT}/ & filth\\
-\cellcolor{gray!6}{/\textipa{g2Nk}/} & \cellcolor{gray!6}{gunk}\\
-/\textipa{Sri:k}/ & shriek\\
-\cellcolor{gray!6}{/\textipa{SrIl}/} & \cellcolor{gray!6}{shrill}\\
-/\textipa{peIdZ}/ & page\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{r@Uv}/} & \cellcolor{gray!6}{rove}\\
-/\textipa{gr@U}/ & grow\\
-\cellcolor{gray!6}{/\textipa{sl\ae g}/} & \cellcolor{gray!6}{slag}\\
-/\textipa{TIN}/ & thing\\
-\cellcolor{gray!6}{/\textipa{sk2Nk}/} & \cellcolor{gray!6}{skunk}\\
-\addlinespace
-/\textipa{v\ae mp}/ & vamp\\
-\cellcolor{gray!6}{/\textipa{br6T}/} & \cellcolor{gray!6}{broth}\\
-/\textipa{l\ae mp}/ & lamp\\
-\cellcolor{gray!6}{/\textipa{sp@Uk}/} & \cellcolor{gray!6}{spoke}\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{r@Uv}/\hfill\textit{\textbf{rove\hspace*{0.5cm}}}\item /\textipa{gr@U}/\hfill\textit{\textbf{grow\hspace*{0.5cm}}}\item /\textipa{sl\ae g}/\hfill\textit{\textbf{slag\hspace*{0.5cm}}}\item /\textipa{TIN}/\hfill\textit{\textbf{thing\hspace*{0.5cm}}}\item /\textipa{sk2Nk}/\hfill\textit{\textbf{skunk\hspace*{0.5cm}}}\item /\textipa{v\ae mp}/\hfill\textit{\textbf{vamp\hspace*{0.5cm}}}\item /\textipa{br6T}/\hfill\textit{\textbf{broth\hspace*{0.5cm}}}\item /\textipa{l\ae mp}/\hfill\textit{\textbf{lamp\hspace*{0.5cm}}}\item /\textipa{sp@Uk}/\hfill\textit{\textbf{spoke\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
  
  
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{preIz}/} & \cellcolor{gray!6}{praise}\\
-/\textipa{mINk}/ & mink\\
-\cellcolor{gray!6}{/\textipa{kwIk}/} & \cellcolor{gray!6}{quick}\\
-/\textipa{Sed}/ & shed\\
-\cellcolor{gray!6}{/\textipa{ski:d}/} & \cellcolor{gray!6}{skied}\\
-\addlinespace
-/\textipa{skwIS}/ & squish\\
-\cellcolor{gray!6}{/\textipa{pItS}/} & \cellcolor{gray!6}{pitch}\\
-/\textipa{S@Un}/ & shown\\
-\cellcolor{gray!6}{/\textipa{twItS}/} & \cellcolor{gray!6}{twitch}\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{preIz}/\hfill\textit{\textbf{praise\hspace*{0.5cm}}}\item /\textipa{mINk}/\hfill\textit{\textbf{mink\hspace*{0.5cm}}}\item /\textipa{kwIk}/\hfill\textit{\textbf{quick\hspace*{0.5cm}}}\item /\textipa{Sed}/\hfill\textit{\textbf{shed\hspace*{0.5cm}}}\item /\textipa{ski:d}/\hfill\textit{\textbf{skied\hspace*{0.5cm}}}\item /\textipa{skwIS}/\hfill\textit{\textbf{squish\hspace*{0.5cm}}}\item /\textipa{pItS}/\hfill\textit{\textbf{pitch\hspace*{0.5cm}}}\item /\textipa{S@Un}/\hfill\textit{\textbf{shown\hspace*{0.5cm}}}\item /\textipa{twItS}/\hfill\textit{\textbf{twitch\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
  
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{k2s}/\hfill\textit{\textbf{cuss\hspace*{0.5cm}}}\item /\textipa{kl@Us}/\hfill\textit{\textbf{close\hspace*{0.5cm}}}\item /\textipa{k@Uks}/\hfill\textit{\textbf{coax\hspace*{0.5cm}}}\item /\textipa{peId}/\hfill\textit{\textbf{paid\hspace*{0.5cm}}}\item /\textipa{tS\ae ps}/\hfill\textit{\textbf{chaps\hspace*{0.5cm}}}\item /\textipa{l@Ud}/\hfill\textit{\textbf{load\hspace*{0.5cm}}}\item /\textipa{ti:n}/\hfill\textit{\textbf{teen\hspace*{0.5cm}}}\item /\textipa{trIl}/\hfill\textit{\textbf{trill\hspace*{0.5cm}}}\item /\textipa{kweIk}/\hfill\textit{\textbf{quake\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{k2s}/} & \cellcolor{gray!6}{cuss}\\
-/\textipa{kl@Us}/ & close\\
-\cellcolor{gray!6}{/\textipa{k@Uks}/} & \cellcolor{gray!6}{coax}\\
-/\textipa{peId}/ & paid\\
-\cellcolor{gray!6}{/\textipa{tS\ae ps}/} & \cellcolor{gray!6}{chaps}\\
-\addlinespace
-/\textipa{l@Ud}/ & load\\
-\cellcolor{gray!6}{/\textipa{ti:n}/} & \cellcolor{gray!6}{teen}\\
-/\textipa{trIl}/ & trill\\
-\cellcolor{gray!6}{/\textipa{kweIk}/} & \cellcolor{gray!6}{quake}\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{SrImp}/} & \cellcolor{gray!6}{shrimp}\\
-/\textipa{frIg}/ & frig\\
-\cellcolor{gray!6}{/\textipa{raIt}/} & \cellcolor{gray!6}{write}\\
-/\textipa{zest}/ & zest\\
-\cellcolor{gray!6}{/\textipa{swept}/} & \cellcolor{gray!6}{swept}\\
-\addlinespace
-/\textipa{glu:}/ & glue\\
-\cellcolor{gray!6}{/\textipa{dZIst}/} & \cellcolor{gray!6}{gist}\\
-/\textipa{k6g}/ & cog\\
-\cellcolor{gray!6}{/\textipa{sl@U}/} & \cellcolor{gray!6}{slow}\\
-/\textipa{\ae pt}/ & apt\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{SrImp}/\hfill\textit{\textbf{shrimp\hspace*{0.5cm}}}\item /\textipa{frIg}/\hfill\textit{\textbf{frig\hspace*{0.5cm}}}\item /\textipa{raIt}/\hfill\textit{\textbf{write\hspace*{0.5cm}}}\item /\textipa{zest}/\hfill\textit{\textbf{zest\hspace*{0.5cm}}}\item /\textipa{swept}/\hfill\textit{\textbf{swept\hspace*{0.5cm}}}\item /\textipa{glu:}/\hfill\textit{\textbf{glue\hspace*{0.5cm}}}\item /\textipa{dZIst}/\hfill\textit{\textbf{gist\hspace*{0.5cm}}}\item /\textipa{k6g}/\hfill\textit{\textbf{cog\hspace*{0.5cm}}}\item /\textipa{sl@U}/\hfill\textit{\textbf{slow\hspace*{0.5cm}}}\item /\textipa{\ae pt}/\hfill\textit{\textbf{apt\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
  
  
  

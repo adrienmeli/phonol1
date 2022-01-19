@@ -75,43 +75,17 @@ page & /1/ & /\textipa{peIdZ}/\\
 \bottomrule
 \end{longtable}
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{kraUn}/\hfill\textit{\textbf{crown\hspace*{0.5cm}}}\item /\textipa{r@Uv}/\hfill\textit{\textbf{rove\hspace*{0.5cm}}}\item /\textipa{gr@U}/\hfill\textit{\textbf{grow\hspace*{0.5cm}}}\item /\textipa{sl\ae g}/\hfill\textit{\textbf{slag\hspace*{0.5cm}}}\item /\textipa{TIN}/\hfill\textit{\textbf{thing\hspace*{0.5cm}}}\item /\textipa{sk2Nk}/\hfill\textit{\textbf{skunk\hspace*{0.5cm}}}\item /\textipa{v\ae mp}/\hfill\textit{\textbf{vamp\hspace*{0.5cm}}}\item /\textipa{br6T}/\hfill\textit{\textbf{broth\hspace*{0.5cm}}}\item /\textipa{l\ae mp}/\hfill\textit{\textbf{lamp\hspace*{0.5cm}}}\item /\textipa{sp@Uk}/\hfill\textit{\textbf{spoke\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{kraUn}/} & \cellcolor{gray!6}{crown}\\
-/\textipa{r@Uv}/ & rove\\
-\cellcolor{gray!6}{/\textipa{gr@U}/} & \cellcolor{gray!6}{grow}\\
-/\textipa{sl\ae g}/ & slag\\
-\cellcolor{gray!6}{/\textipa{TIN}/} & \cellcolor{gray!6}{thing}\\
-\addlinespace
-/\textipa{sk2Nk}/ & skunk\\
-\cellcolor{gray!6}{/\textipa{v\ae mp}/} & \cellcolor{gray!6}{vamp}\\
-/\textipa{br6T}/ & broth\\
-\cellcolor{gray!6}{/\textipa{l\ae mp}/} & \cellcolor{gray!6}{lamp}\\
-/\textipa{sp@Uk}/ & spoke\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{haUl}/} & \cellcolor{gray!6}{howl}\\
-/\textipa{preIz}/ & praise\\
-\cellcolor{gray!6}{/\textipa{mINk}/} & \cellcolor{gray!6}{mink}\\
-/\textipa{kwIf}/ & quiff\\
-\cellcolor{gray!6}{/\textipa{Sed}/} & \cellcolor{gray!6}{shed}\\
-\addlinespace
-/\textipa{ski:d}/ & skied\\
-\cellcolor{gray!6}{/\textipa{skwIS}/} & \cellcolor{gray!6}{squish}\\
-/\textipa{pItS}/ & pitch\\
-\cellcolor{gray!6}{/\textipa{S@Un}/} & \cellcolor{gray!6}{shown}\\
-/\textipa{twItS}/ & twitch\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{haUl}/\hfill\textit{\textbf{howl\hspace*{0.5cm}}}\item /\textipa{preIz}/\hfill\textit{\textbf{praise\hspace*{0.5cm}}}\item /\textipa{mINk}/\hfill\textit{\textbf{mink\hspace*{0.5cm}}}\item /\textipa{kwIf}/\hfill\textit{\textbf{quiff\hspace*{0.5cm}}}\item /\textipa{Sed}/\hfill\textit{\textbf{shed\hspace*{0.5cm}}}\item /\textipa{ski:d}/\hfill\textit{\textbf{skied\hspace*{0.5cm}}}\item /\textipa{skwIS}/\hfill\textit{\textbf{squish\hspace*{0.5cm}}}\item /\textipa{pItS}/\hfill\textit{\textbf{pitch\hspace*{0.5cm}}}\item /\textipa{S@Un}/\hfill\textit{\textbf{shown\hspace*{0.5cm}}}\item /\textipa{twItS}/\hfill\textit{\textbf{twitch\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
  
 
 \begin{longtable}{lll}
@@ -247,41 +221,15 @@ trace\\
 
 ### Exercices : déchiffrage
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{mO:}/{\tiny\dotfill}\item /\textipa{eIp}/{\tiny\dotfill}\item /\textipa{n3:d}/{\tiny\dotfill}\item /\textipa{b3:T}/{\tiny\dotfill}\item /\textipa{Sri:k}/{\tiny\dotfill}\item /\textipa{skA:z}/{\tiny\dotfill}\item /\textipa{rI@l}/{\tiny\dotfill}\item /\textipa{tO:l}/{\tiny\dotfill}\item /\textipa{lu:s}/{\tiny\dotfill}\item /\textipa{t3:mz}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{mO:}/}\\
-/\textipa{eIp}/\\
-\cellcolor{gray!6}{/\textipa{n3:d}/}\\
-/\textipa{b3:T}/\\
-\cellcolor{gray!6}{/\textipa{Sri:k}/}\\
-\addlinespace
-/\textipa{skA:z}/\\
-\cellcolor{gray!6}{/\textipa{rI@l}/}\\
-/\textipa{tO:l}/\\
-\cellcolor{gray!6}{/\textipa{lu:s}/}\\
-/\textipa{t3:mz}/\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{klaIm}/}\\
-/\textipa{wO:n}/\\
-\cellcolor{gray!6}{/\textipa{SA:k}/}\\
-/\textipa{n2m}/\\
-\cellcolor{gray!6}{/\textipa{nO:T}/}\\
-\addlinespace
-/\textipa{tS3:n}/\\
-\cellcolor{gray!6}{/\textipa{dZO:}/}\\
-/\textipa{b6m}/\\
-\cellcolor{gray!6}{/\textipa{@U}/}\\
-/\textipa{Tru:}/\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{klaIm}/{\tiny\dotfill}\item /\textipa{wO:n}/{\tiny\dotfill}\item /\textipa{SA:k}/{\tiny\dotfill}\item /\textipa{n2m}/{\tiny\dotfill}\item /\textipa{nO:T}/{\tiny\dotfill}\item /\textipa{tS3:n}/{\tiny\dotfill}\item /\textipa{dZO:}/{\tiny\dotfill}\item /\textipa{b6m}/{\tiny\dotfill}\item /\textipa{@U}/{\tiny\dotfill}\item /\textipa{Tru:}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
  

@@ -4,43 +4,17 @@
 
 ## Correction
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{p@Ul}/\hfill\textit{\textbf{pole\hspace*{0.5cm}}}\item /\textipa{dZO:}/\hfill\textit{\textbf{jaw\hspace*{0.5cm}}}\item /\textipa{hIm}/\hfill\textit{\textbf{him\hspace*{0.5cm}}}\item /\textipa{d6g}/\hfill\textit{\textbf{dog\hspace*{0.5cm}}}\item /\textipa{f3:}/\hfill\textit{\textbf{fur\hspace*{0.5cm}}}\item /\textipa{kwO:t}/\hfill\textit{\textbf{quart\hspace*{0.5cm}}}\item /\textipa{tr2st}/\hfill\textit{\textbf{trust\hspace*{0.5cm}}}\item /\textipa{stUd}/\hfill\textit{\textbf{stood\hspace*{0.5cm}}}\item /\textipa{b3:st}/\hfill\textit{\textbf{burst\hspace*{0.5cm}}}\item /\textipa{swu:S}/\hfill\textit{\textbf{swoosh\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{p@Ul}/} & \cellcolor{gray!6}{pole}\\
-/\textipa{dZO:}/ & jaw\\
-\cellcolor{gray!6}{/\textipa{hIm}/} & \cellcolor{gray!6}{him}\\
-/\textipa{d6g}/ & dog\\
-\cellcolor{gray!6}{/\textipa{f3:}/} & \cellcolor{gray!6}{fur}\\
-\addlinespace
-/\textipa{kwO:t}/ & quart\\
-\cellcolor{gray!6}{/\textipa{tr2st}/} & \cellcolor{gray!6}{trust}\\
-/\textipa{stUd}/ & stood\\
-\cellcolor{gray!6}{/\textipa{b3:st}/} & \cellcolor{gray!6}{burst}\\
-/\textipa{swu:S}/ & swoosh\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{spreI}/} & \cellcolor{gray!6}{spray}\\
-/\textipa{stUd}/ & stood\\
-\cellcolor{gray!6}{/\textipa{tA:}/} & \cellcolor{gray!6}{tar}\\
-/\textipa{T6N}/ & thong\\
-\cellcolor{gray!6}{/\textipa{spu:f}/} & \cellcolor{gray!6}{spoof}\\
-\addlinespace
-/\textipa{w3:}/ & were\\
-\cellcolor{gray!6}{/\textipa{kleI}/} & \cellcolor{gray!6}{clay}\\
-/\textipa{drA:ft}/ & draught\\
-\cellcolor{gray!6}{/\textipa{jes}/} & \cellcolor{gray!6}{yes}\\
-/\textipa{Tr6b}/ & throb\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{spreI}/\hfill\textit{\textbf{spray\hspace*{0.5cm}}}\item /\textipa{stUd}/\hfill\textit{\textbf{stood\hspace*{0.5cm}}}\item /\textipa{tA:}/\hfill\textit{\textbf{tar\hspace*{0.5cm}}}\item /\textipa{T6N}/\hfill\textit{\textbf{thong\hspace*{0.5cm}}}\item /\textipa{spu:f}/\hfill\textit{\textbf{spoof\hspace*{0.5cm}}}\item /\textipa{w3:}/\hfill\textit{\textbf{were\hspace*{0.5cm}}}\item /\textipa{kleI}/\hfill\textit{\textbf{clay\hspace*{0.5cm}}}\item /\textipa{drA:ft}/\hfill\textit{\textbf{draught\hspace*{0.5cm}}}\item /\textipa{jes}/\hfill\textit{\textbf{yes\hspace*{0.5cm}}}\item /\textipa{Tr6b}/\hfill\textit{\textbf{throb\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
 \begin{longtable}{lll}
 \toprule
@@ -89,43 +63,17 @@ quartz & /1/ & /\textipa{kwO:ts}/\\
 
 ### Practice
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{A:mz}/\hfill\textit{\textbf{arms\hspace*{0.5cm}}}\item /\textipa{g3:l}/\hfill\textit{\textbf{girl\hspace*{0.5cm}}}\item /\textipa{st3:}/\hfill\textit{\textbf{stir\hspace*{0.5cm}}}\item /\textipa{bA:}/\hfill\textit{\textbf{bar\hspace*{0.5cm}}}\item /\textipa{n3:s}/\hfill\textit{\textbf{nurse\hspace*{0.5cm}}}\item /\textipa{l3:n}/\hfill\textit{\textbf{learn\hspace*{0.5cm}}}\item /\textipa{kw3:k}/\hfill\textit{\textbf{quirk\hspace*{0.5cm}}}\item /\textipa{mA:sk}/\hfill\textit{\textbf{mask\hspace*{0.5cm}}}\item /\textipa{k3:l}/\hfill\textit{\textbf{curl\hspace*{0.5cm}}}\item /\textipa{jI@}/\hfill\textit{\textbf{year\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{A:mz}/} & \cellcolor{gray!6}{arms}\\
-/\textipa{g3:l}/ & girl\\
-\cellcolor{gray!6}{/\textipa{st3:}/} & \cellcolor{gray!6}{stir}\\
-/\textipa{bA:}/ & bar\\
-\cellcolor{gray!6}{/\textipa{n3:s}/} & \cellcolor{gray!6}{nurse}\\
-\addlinespace
-/\textipa{l3:n}/ & learn\\
-\cellcolor{gray!6}{/\textipa{kw3:k}/} & \cellcolor{gray!6}{quirk}\\
-/\textipa{mA:sk}/ & mask\\
-\cellcolor{gray!6}{/\textipa{k3:l}/} & \cellcolor{gray!6}{curl}\\
-/\textipa{jI@}/ & year\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{hA:t}/} & \cellcolor{gray!6}{heart}\\
-/\textipa{me@}/ & mare\\
-\cellcolor{gray!6}{/\textipa{t3:n}/} & \cellcolor{gray!6}{turn}\\
-/\textipa{k3:v}/ & curve\\
-\cellcolor{gray!6}{/\textipa{f3:}/} & \cellcolor{gray!6}{fir}\\
-\addlinespace
-/\textipa{tSA:}/ & char\\
-\cellcolor{gray!6}{/\textipa{sI@}/} & \cellcolor{gray!6}{sear}\\
-/\textipa{hA:vz}/ & halves\\
-\cellcolor{gray!6}{/\textipa{eI@l}/} & \cellcolor{gray!6}{ale}\\
-/\textipa{p3:tS}/ & perch\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{hA:t}/\hfill\textit{\textbf{heart\hspace*{0.5cm}}}\item /\textipa{me@}/\hfill\textit{\textbf{mare\hspace*{0.5cm}}}\item /\textipa{t3:n}/\hfill\textit{\textbf{turn\hspace*{0.5cm}}}\item /\textipa{k3:v}/\hfill\textit{\textbf{curve\hspace*{0.5cm}}}\item /\textipa{f3:}/\hfill\textit{\textbf{fir\hspace*{0.5cm}}}\item /\textipa{tSA:}/\hfill\textit{\textbf{char\hspace*{0.5cm}}}\item /\textipa{sI@}/\hfill\textit{\textbf{sear\hspace*{0.5cm}}}\item /\textipa{hA:vz}/\hfill\textit{\textbf{halves\hspace*{0.5cm}}}\item /\textipa{eI@l}/\hfill\textit{\textbf{ale\hspace*{0.5cm}}}\item /\textipa{p3:tS}/\hfill\textit{\textbf{perch\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
 
 \begin{longtable}{lll}
@@ -150,43 +98,17 @@ charm & /1/ & /\textipa{tSA:m}/\\
 
 ### Practice... With all vowels!
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{tSes}/{\tiny\dotfill}\item /\textipa{waIt}/{\tiny\dotfill}\item /\textipa{dZOIn}/{\tiny\dotfill}\item /\textipa{De@}/{\tiny\dotfill}\item /\textipa{lu:z}/{\tiny\dotfill}\item /\textipa{w3:st}/{\tiny\dotfill}\item /\textipa{ni:}/{\tiny\dotfill}\item /\textipa{b@UT}/{\tiny\dotfill}\item /\textipa{bUS}/{\tiny\dotfill}\item /\textipa{s2tS}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{tSes}/}\\
-/\textipa{waIt}/\\
-\cellcolor{gray!6}{/\textipa{dZOIn}/}\\
-/\textipa{De@}/\\
-\cellcolor{gray!6}{/\textipa{lu:z}/}\\
-\addlinespace
-/\textipa{w3:st}/\\
-\cellcolor{gray!6}{/\textipa{ni:}/}\\
-/\textipa{b@UT}/\\
-\cellcolor{gray!6}{/\textipa{bUS}/}\\
-/\textipa{s2tS}/\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{Self}/}\\
-/\textipa{stu:l}/\\
-\cellcolor{gray!6}{/\textipa{gr@Uz}/}\\
-/\textipa{SUd}/\\
-\cellcolor{gray!6}{/\textipa{h@Upt}/}\\
-\addlinespace
-/\textipa{m2tS}/\\
-\cellcolor{gray!6}{/\textipa{Se@}/}\\
-/\textipa{TO:t}/\\
-\cellcolor{gray!6}{/\textipa{tru:}/}\\
-/\textipa{Tru:}/\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{Self}/{\tiny\dotfill}\item /\textipa{stu:l}/{\tiny\dotfill}\item /\textipa{gr@Uz}/{\tiny\dotfill}\item /\textipa{SUd}/{\tiny\dotfill}\item /\textipa{h@Upt}/{\tiny\dotfill}\item /\textipa{m2tS}/{\tiny\dotfill}\item /\textipa{Se@}/{\tiny\dotfill}\item /\textipa{TO:t}/{\tiny\dotfill}\item /\textipa{tru:}/{\tiny\dotfill}\item /\textipa{Tru:}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
 Listen to the following words and transcribe them:
 

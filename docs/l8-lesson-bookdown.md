@@ -46,86 +46,34 @@ trace & /1/ & /\textipa{treIs}/\\
 
 ### Exercices : déchiffrage
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{mO:}/\hfill\textit{\textbf{more\hspace*{0.5cm}}}\item /\textipa{eIp}/\hfill\textit{\textbf{ape\hspace*{0.5cm}}}\item /\textipa{n3:d}/\hfill\textit{\textbf{nerd\hspace*{0.5cm}}}\item /\textipa{b3:T}/\hfill\textit{\textbf{birth\hspace*{0.5cm}}}\item /\textipa{Sri:k}/\hfill\textit{\textbf{shriek\hspace*{0.5cm}}}\item /\textipa{skA:z}/\hfill\textit{\textbf{scars\hspace*{0.5cm}}}\item /\textipa{rI@l}/\hfill\textit{\textbf{real\hspace*{0.5cm}}}\item /\textipa{tO:l}/\hfill\textit{\textbf{tall\hspace*{0.5cm}}}\item /\textipa{lu:s}/\hfill\textit{\textbf{loose\hspace*{0.5cm}}}\item /\textipa{t3:mz}/\hfill\textit{\textbf{terms\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{mO:}/} & \cellcolor{gray!6}{more}\\
-/\textipa{eIp}/ & ape\\
-\cellcolor{gray!6}{/\textipa{n3:d}/} & \cellcolor{gray!6}{nerd}\\
-/\textipa{b3:T}/ & birth\\
-\cellcolor{gray!6}{/\textipa{Sri:k}/} & \cellcolor{gray!6}{shriek}\\
-\addlinespace
-/\textipa{skA:z}/ & scars\\
-\cellcolor{gray!6}{/\textipa{rI@l}/} & \cellcolor{gray!6}{real}\\
-/\textipa{tO:l}/ & tall\\
-\cellcolor{gray!6}{/\textipa{lu:s}/} & \cellcolor{gray!6}{loose}\\
-/\textipa{t3:mz}/ & terms\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{klaIm}/} & \cellcolor{gray!6}{climb}\\
-/\textipa{wO:n}/ & warn\\
-\cellcolor{gray!6}{/\textipa{SA:k}/} & \cellcolor{gray!6}{shark}\\
-/\textipa{n2m}/ & numb\\
-\cellcolor{gray!6}{/\textipa{nO:T}/} & \cellcolor{gray!6}{north}\\
-\addlinespace
-/\textipa{tS3:n}/ & churn\\
-\cellcolor{gray!6}{/\textipa{dZO:}/} & \cellcolor{gray!6}{jaw}\\
-/\textipa{b6m}/ & bomb\\
-\cellcolor{gray!6}{/\textipa{@U}/} & \cellcolor{gray!6}{owe}\\
-/\textipa{Tru:}/ & through\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{klaIm}/\hfill\textit{\textbf{climb\hspace*{0.5cm}}}\item /\textipa{wO:n}/\hfill\textit{\textbf{warn\hspace*{0.5cm}}}\item /\textipa{SA:k}/\hfill\textit{\textbf{shark\hspace*{0.5cm}}}\item /\textipa{n2m}/\hfill\textit{\textbf{numb\hspace*{0.5cm}}}\item /\textipa{nO:T}/\hfill\textit{\textbf{north\hspace*{0.5cm}}}\item /\textipa{tS3:n}/\hfill\textit{\textbf{churn\hspace*{0.5cm}}}\item /\textipa{dZO:}/\hfill\textit{\textbf{jaw\hspace*{0.5cm}}}\item /\textipa{b6m}/\hfill\textit{\textbf{bomb\hspace*{0.5cm}}}\item /\textipa{@U}/\hfill\textit{\textbf{owe\hspace*{0.5cm}}}\item /\textipa{Tru:}/\hfill\textit{\textbf{through\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
 ## Practice makes perfect!
  
  
 ### Decipher
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{tS\ae p}/\hfill\textit{\textbf{chap\hspace*{0.5cm}}}\item /\textipa{lIk}/\hfill\textit{\textbf{lick\hspace*{0.5cm}}}\item /\textipa{rek}/\hfill\textit{\textbf{wreck\hspace*{0.5cm}}}\item /\textipa{flIntS}/\hfill\textit{\textbf{flinch\hspace*{0.5cm}}}\item /\textipa{kraI}/\hfill\textit{\textbf{cry\hspace*{0.5cm}}}\item /\textipa{blIts}/\hfill\textit{\textbf{blitz\hspace*{0.5cm}}}\item /\textipa{swIN}/\hfill\textit{\textbf{swing\hspace*{0.5cm}}}\item /\textipa{leId}/\hfill\textit{\textbf{laid\hspace*{0.5cm}}}\item /\textipa{TraIs}/\hfill\textit{\textbf{thrice\hspace*{0.5cm}}}\item /\textipa{dA:ns}/\hfill\textit{\textbf{dance\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{tS\ae p}/} & \cellcolor{gray!6}{chap}\\
-/\textipa{lIk}/ & lick\\
-\cellcolor{gray!6}{/\textipa{rek}/} & \cellcolor{gray!6}{wreck}\\
-/\textipa{flIntS}/ & flinch\\
-\cellcolor{gray!6}{/\textipa{kraI}/} & \cellcolor{gray!6}{cry}\\
-\addlinespace
-/\textipa{blIts}/ & blitz\\
-\cellcolor{gray!6}{/\textipa{swIN}/} & \cellcolor{gray!6}{swing}\\
-/\textipa{leId}/ & laid\\
-\cellcolor{gray!6}{/\textipa{TraIs}/} & \cellcolor{gray!6}{thrice}\\
-/\textipa{dA:ns}/ & dance\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{kr2ks}/} & \cellcolor{gray!6}{crux}\\
-/\textipa{rend}/ & rend\\
-\cellcolor{gray!6}{/\textipa{mIks}/} & \cellcolor{gray!6}{mix}\\
-/\textipa{sm3:k}/ & smirk\\
-\cellcolor{gray!6}{/\textipa{sl6t}/} & \cellcolor{gray!6}{slot}\\
-\addlinespace
-/\textipa{h@Uld}/ & hold\\
-\cellcolor{gray!6}{/\textipa{fl2Nk}/} & \cellcolor{gray!6}{flunk}\\
-/\textipa{s3:v}/ & serve\\
-\cellcolor{gray!6}{/\textipa{lInt}/} & \cellcolor{gray!6}{lint}\\
-/\textipa{r\ae N}/ & rang\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{kr2ks}/\hfill\textit{\textbf{crux\hspace*{0.5cm}}}\item /\textipa{rend}/\hfill\textit{\textbf{rend\hspace*{0.5cm}}}\item /\textipa{mIks}/\hfill\textit{\textbf{mix\hspace*{0.5cm}}}\item /\textipa{sm3:k}/\hfill\textit{\textbf{smirk\hspace*{0.5cm}}}\item /\textipa{sl6t}/\hfill\textit{\textbf{slot\hspace*{0.5cm}}}\item /\textipa{h@Uld}/\hfill\textit{\textbf{hold\hspace*{0.5cm}}}\item /\textipa{fl2Nk}/\hfill\textit{\textbf{flunk\hspace*{0.5cm}}}\item /\textipa{s3:v}/\hfill\textit{\textbf{serve\hspace*{0.5cm}}}\item /\textipa{lInt}/\hfill\textit{\textbf{lint\hspace*{0.5cm}}}\item /\textipa{r\ae N}/\hfill\textit{\textbf{rang\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
  
  
 ### Listen
@@ -170,43 +118,17 @@ glint & /1/ & /\textipa{glInt}/\\
 
 ## Homework
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{p@Ul}/{\tiny\dotfill}\item /\textipa{dZO:}/{\tiny\dotfill}\item /\textipa{hIm}/{\tiny\dotfill}\item /\textipa{d6g}/{\tiny\dotfill}\item /\textipa{f3:}/{\tiny\dotfill}\item /\textipa{kwO:t}/{\tiny\dotfill}\item /\textipa{tr2st}/{\tiny\dotfill}\item /\textipa{stUd}/{\tiny\dotfill}\item /\textipa{b3:st}/{\tiny\dotfill}\item /\textipa{swu:S}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{p@Ul}/}\\
-/\textipa{dZO:}/\\
-\cellcolor{gray!6}{/\textipa{hIm}/}\\
-/\textipa{d6g}/\\
-\cellcolor{gray!6}{/\textipa{f3:}/}\\
-\addlinespace
-/\textipa{kwO:t}/\\
-\cellcolor{gray!6}{/\textipa{tr2st}/}\\
-/\textipa{stUd}/\\
-\cellcolor{gray!6}{/\textipa{b3:st}/}\\
-/\textipa{swu:S}/\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{spreI}/}\\
-/\textipa{stUd}/\\
-\cellcolor{gray!6}{/\textipa{tA:}/}\\
-/\textipa{T6N}/\\
-\cellcolor{gray!6}{/\textipa{spu:f}/}\\
-\addlinespace
-/\textipa{w3:}/\\
-\cellcolor{gray!6}{/\textipa{kleI}/}\\
-/\textipa{drA:ft}/\\
-\cellcolor{gray!6}{/\textipa{jes}/}\\
-/\textipa{Tr6b}/\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{spreI}/{\tiny\dotfill}\item /\textipa{stUd}/{\tiny\dotfill}\item /\textipa{tA:}/{\tiny\dotfill}\item /\textipa{T6N}/{\tiny\dotfill}\item /\textipa{spu:f}/{\tiny\dotfill}\item /\textipa{w3:}/{\tiny\dotfill}\item /\textipa{kleI}/{\tiny\dotfill}\item /\textipa{drA:ft}/{\tiny\dotfill}\item /\textipa{jes}/{\tiny\dotfill}\item /\textipa{Tr6b}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 Listen to the following words and transcribe them:
 
 
