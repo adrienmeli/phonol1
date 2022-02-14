@@ -13,7 +13,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{brown} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{braUn}/}\\
 cow & /1/ & /\textipa{kaU}/\\
@@ -28,7 +28,7 @@ clown & /1/ & /\textipa{klaUn}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{snow} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{sn@U}/}\\
 show & /1/ & /\textipa{S@U}/\\
@@ -59,7 +59,7 @@ grow & /1/ & /\textipa{gr@U}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{foot} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{fUt}/}\\
 soot & /1/ & /\textipa{sUt}/\\
@@ -97,7 +97,7 @@ shook & /1/ & /\textipa{SUk}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{whirl} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w3:l}/}\\
 prop & /1/ & /\textipa{pr6p}/\\
@@ -122,7 +122,7 @@ skulk & /1/ & /\textipa{sk2lk}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{coach} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{k@UtS}/}\\
 chook & /1/ & /\textipa{tSUk}/\\
@@ -168,7 +168,7 @@ vote & /1/ & /\textipa{v@Ut}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{mountain} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"maUnt.In}/}\\
 table & /10/ & /\textipa{"teIb.@l}/\\
@@ -198,7 +198,7 @@ another & /010/ & /\textipa{@."n2D.@}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{cooking} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"kUk.IN}/}\\
 deliver & /010/ & /\textipa{di."lIv.@}/\\
@@ -208,7 +208,7 @@ garden & /10/ & /\textipa{"gA:d.@n}/\\
 \addlinespace
 potato & /010/ & /\textipa{p@."teIt.@U}/\\
 \cellcolor{gray!6}{mistake} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{mi."steIk}/}\\
-model & /10/ & /\textipa{"m6d.@l}/\\
+bottle & /10/ & /\textipa{"b6t.@l}/\\
 \cellcolor{gray!6}{drawer} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{drO:}/}\\
 repeat & /01/ & /\textipa{ri."pi:t}/\\
 \bottomrule

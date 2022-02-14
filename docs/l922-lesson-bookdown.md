@@ -16,7 +16,7 @@ Trouvez l'exception :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{mail} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{meI@l}/}\\
 pain & /1/ & /\textipa{peIn}/\\
@@ -34,7 +34,7 @@ Trouvez l'exception :
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{day} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{deI}/}\\
 may & /1/ & /\textipa{meI}/\\
@@ -53,7 +53,7 @@ Trouvez les 3 exceptions:
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{caught} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{kO:t}/}\\
 taught & /1/ & /\textipa{tO:t}/\\
@@ -74,7 +74,7 @@ Ce digraphe se prononce /\textipa{O:}/.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{law} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{lO:}/}\\
 saw & /1/ & /\textipa{sO:}/\\
@@ -95,7 +95,7 @@ Ici, le digraphe se prononce /\textipa{i:}/.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{feat} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{fi:t}/}\\
 leave & /1/ & /\textipa{li:v}/\\
@@ -112,7 +112,7 @@ Ici, le digraphe se prononce /\textipa{e}/.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{breast} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{brest}/}\\
 bread & /1/ & /\textipa{bred}/\\
@@ -139,7 +139,7 @@ Ici, le digraphe se prononce /\textipa{eI}/.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{breast} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{brest}/}\\
 bread & /1/ & /\textipa{bred}/\\
@@ -160,7 +160,7 @@ Ce digraphe se prononce /\textipa{i:}/.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{feel} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{fi:@l}/}\\
 knee & /1/ & /\textipa{ni:}/\\
@@ -178,7 +178,7 @@ Ici, le digraphe se prononce /\textipa{i:}/.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{conceit} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@n."si:t}/}\\
 deceive & /01/ & /\textipa{di."si:v}/\\
@@ -194,7 +194,7 @@ Cette prononciation est celle par défaut de <-eigh-> et <-ey->.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{weigh} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{weI}/}\\
 neigh & /1/ & /\textipa{neI}/\\
@@ -211,7 +211,7 @@ Trouvez toutefois e
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{weight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{weIt}/}\\
 height & /1/ & /\textipa{haIt}/\\
@@ -228,7 +228,7 @@ Ce digraphe se prononce /\textipa{u:}/ ou /\textipa{ju:}/.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{pseudo} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"sju:d.@U}/}\\
 feud & /1/ & /\textipa{fju:d}/\\
@@ -280,7 +280,7 @@ Ce digraphe se prononce /\textipa{OI}/.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{coin} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{kOIn}/}\\
 noise & /1/ & /\textipa{nOIz}/\\
@@ -307,7 +307,7 @@ coy & /1/ & /\textipa{kOI}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{group} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{gru:p}/}\\
 route & /1/ & /\textipa{ru:t}/\\
@@ -333,7 +333,7 @@ wound & /1/ & /\textipa{wu:nd}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{shoulder} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"S@Uld.@}/}\\
 soul & /1/ & /\textipa{s@Ul}/\\
