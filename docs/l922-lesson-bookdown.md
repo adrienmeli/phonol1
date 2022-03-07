@@ -18,7 +18,7 @@ Trouvez l'exception :
 \toprule
 Word & Stress Pattern & IPA (RP)\\
 \midrule
-\cellcolor{gray!6}{mail} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{meI@l}/}\\
+\cellcolor{gray!6}{mail} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{meIl}/}\\
 pain & /1/ & /\textipa{peIn}/\\
 \cellcolor{gray!6}{saint} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{seInt}/}\\
 said & /1/ & /\textipa{sed}/\\

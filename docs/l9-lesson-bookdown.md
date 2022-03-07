@@ -72,7 +72,7 @@ quartz & /1/ & /\textipa{kwO:ts}/\\
 \begin{multicols}{2}
 \begin{enumerate}
 \setlength\itemsep{0.25cm}
-\item /\textipa{hA:t}/\hfill\textit{\textbf{heart\hspace*{0.5cm}}}\item /\textipa{me@}/\hfill\textit{\textbf{mare\hspace*{0.5cm}}}\item /\textipa{t3:n}/\hfill\textit{\textbf{turn\hspace*{0.5cm}}}\item /\textipa{k3:v}/\hfill\textit{\textbf{curve\hspace*{0.5cm}}}\item /\textipa{f3:}/\hfill\textit{\textbf{fir\hspace*{0.5cm}}}\item /\textipa{tSA:}/\hfill\textit{\textbf{char\hspace*{0.5cm}}}\item /\textipa{sI@}/\hfill\textit{\textbf{sear\hspace*{0.5cm}}}\item /\textipa{hA:vz}/\hfill\textit{\textbf{halves\hspace*{0.5cm}}}\item /\textipa{eI@l}/\hfill\textit{\textbf{ale\hspace*{0.5cm}}}\item /\textipa{p3:tS}/\hfill\textit{\textbf{perch\hspace*{0.5cm}}}\end{enumerate}
+\item /\textipa{hA:t}/\hfill\textit{\textbf{heart\hspace*{0.5cm}}}\item /\textipa{me@}/\hfill\textit{\textbf{mare\hspace*{0.5cm}}}\item /\textipa{t3:n}/\hfill\textit{\textbf{turn\hspace*{0.5cm}}}\item /\textipa{k3:v}/\hfill\textit{\textbf{curve\hspace*{0.5cm}}}\item /\textipa{f3:}/\hfill\textit{\textbf{fir\hspace*{0.5cm}}}\item /\textipa{tSA:}/\hfill\textit{\textbf{char\hspace*{0.5cm}}}\item /\textipa{sI@}/\hfill\textit{\textbf{sear\hspace*{0.5cm}}}\item /\textipa{hA:vz}/\hfill\textit{\textbf{halves\hspace*{0.5cm}}}\item /\textipa{eIl}/\hfill\textit{\textbf{ale\hspace*{0.5cm}}}\item /\textipa{p3:tS}/\hfill\textit{\textbf{perch\hspace*{0.5cm}}}\end{enumerate}
 \end{multicols}
 
 

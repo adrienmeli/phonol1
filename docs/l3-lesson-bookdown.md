@@ -70,7 +70,7 @@ bathe & /1/ & /\textipa{beID}/\\
 \cellcolor{gray!6}{gem} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZem}/}\\
 chase & /1/ & /\textipa{tSeIs}/\\
 \cellcolor{gray!6}{length} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{leNT}/}\\
-jail & /1/ & /\textipa{dZeI@l}/\\
+jail & /1/ & /\textipa{dZeIl}/\\
 \bottomrule
 \end{longtable}
 

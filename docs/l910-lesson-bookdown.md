@@ -33,7 +33,7 @@ hum & /1/ & /\textipa{h2m}/\\
 \cellcolor{gray!6}{gang} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{g\ae N}/}\\
 snare & /1/ & /\textipa{sne@}/\\
 \cellcolor{gray!6}{light} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{laIt}/}\\
-whale & /1/ & /\textipa{weI@l}/\\
+whale & /1/ & /\textipa{weIl}/\\
 \bottomrule
 \end{longtable}
 
