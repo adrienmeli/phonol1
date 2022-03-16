@@ -35,103 +35,334 @@ All info:
 
 #### Spelling
 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
- & V C-r C/\# & V C-r V & V <r> C/\# & V <r> V\\
-\midrule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{hat} & \cellcolor{gray!6}{hate} & \cellcolor{gray!6}{car} & \cellcolor{gray!6}{care}\\
-<e> & pet & Pete & her & here\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{sit} & \cellcolor{gray!6}{site} & \cellcolor{gray!6}{fir} & \cellcolor{gray!6}{fire}\\
-<o> & not & note & or & ore\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{cut} & \cellcolor{gray!6}{cute} & \cellcolor{gray!6}{purr} & \cellcolor{gray!6}{pure}\\
-\addlinespace
-<u2> & put &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> V C-r C/# </th>
+   <th style="text-align:left;"> V C-r V </th>
+   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
+   <th style="text-align:left;"> V &lt;r&gt; V </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;a&gt; </td>
+   <td style="text-align:left;"> hat </td>
+   <td style="text-align:left;"> hate </td>
+   <td style="text-align:left;"> car </td>
+   <td style="text-align:left;"> care </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;e&gt; </td>
+   <td style="text-align:left;"> pet </td>
+   <td style="text-align:left;"> Pete </td>
+   <td style="text-align:left;"> her </td>
+   <td style="text-align:left;"> here </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;i&gt; </td>
+   <td style="text-align:left;"> sit </td>
+   <td style="text-align:left;"> site </td>
+   <td style="text-align:left;"> fir </td>
+   <td style="text-align:left;"> fire </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;o&gt; </td>
+   <td style="text-align:left;"> not </td>
+   <td style="text-align:left;"> note </td>
+   <td style="text-align:left;"> or </td>
+   <td style="text-align:left;"> ore </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u&gt; </td>
+   <td style="text-align:left;"> cut </td>
+   <td style="text-align:left;"> cute </td>
+   <td style="text-align:left;"> purr </td>
+   <td style="text-align:left;"> pure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u2&gt; </td>
+   <td style="text-align:left;"> put </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
 
 
 Vowels not present in this chart:
 
-* /\textipa{OI}/
-* /\textipa{aU}/
-* /\textipa{@}/
+* /ɔɪ/
+* /aʊ/
+* /ə/
 
 #### RP transcription
 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{/\textipa{h\ae t}/} & \cellcolor{gray!6}{/\textipa{heIt}/} & \cellcolor{gray!6}{/\textipa{kA:}/} & \cellcolor{gray!6}{/\textipa{ke@}/}\\
-<e> & /\textipa{pet}/ & /\textipa{pi:t}/ & /\textipa{h3:}/ & /\textipa{hI@}/\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{/\textipa{sIt}/} & \cellcolor{gray!6}{/\textipa{saIt}/} & \cellcolor{gray!6}{/\textipa{f3:}/} & \cellcolor{gray!6}{/\textipa{"faI.@}/}\\
-<o> & /\textipa{n6t}/ & /\textipa{n@Ut}/ & /\textipa{O:}/ & /\textipa{O:}/\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{/\textipa{k2t}/} & \cellcolor{gray!6}{/\textipa{kju:t}/} & \cellcolor{gray!6}{/\textipa{p3:}/} & \cellcolor{gray!6}{/\textipa{pjU@}/}\\
-\addlinespace
-<u2> & /\textipa{pUt}/ &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> V C-r C/# </th>
+   <th style="text-align:left;"> V C-r V </th>
+   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
+   <th style="text-align:left;"> V &lt;r&gt; V </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;a&gt; </td>
+   <td style="text-align:left;"> /hæt/ </td>
+   <td style="text-align:left;"> /heɪt/ </td>
+   <td style="text-align:left;"> /kɑː/ </td>
+   <td style="text-align:left;"> /keə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;e&gt; </td>
+   <td style="text-align:left;"> /pet/ </td>
+   <td style="text-align:left;"> /piːt/ </td>
+   <td style="text-align:left;"> /hɜː/ </td>
+   <td style="text-align:left;"> /hɪə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;i&gt; </td>
+   <td style="text-align:left;"> /sɪt/ </td>
+   <td style="text-align:left;"> /saɪt/ </td>
+   <td style="text-align:left;"> /fɜː/ </td>
+   <td style="text-align:left;"> /'faɪ.ə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;o&gt; </td>
+   <td style="text-align:left;"> /nɒt/ </td>
+   <td style="text-align:left;"> /nəʊt/ </td>
+   <td style="text-align:left;"> /ɔː/ </td>
+   <td style="text-align:left;"> /ɔː/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u&gt; </td>
+   <td style="text-align:left;"> /kʌt/ </td>
+   <td style="text-align:left;"> /kjuːt/ </td>
+   <td style="text-align:left;"> /pɜː/ </td>
+   <td style="text-align:left;"> /pjʊə/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u2&gt; </td>
+   <td style="text-align:left;"> /pʊt/ </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
 Vowels not present in this chart:
 
-* /\textipa{OI}/
-* /\textipa{aU}/
-* /\textipa{@}/
+* /ɔɪ/
+* /aʊ/
+* /ə/
 
 
 #### GenAm transcription
 
-\begin{table}
-\centering
-\begin{tabular}{lllll}
-\toprule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{\textipa{/h\ae t/}} & \cellcolor{gray!6}{\textipa{/heIt/}} & \cellcolor{gray!6}{\textipa{/kA:r/}} & \cellcolor{gray!6}{\textipa{/ker/}}\\
-<e> & \textipa{/pet/} & \textipa{/pi:t/} & \textipa{/h@r/} & \textipa{/hIr/}\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{\textipa{/sIt/}} & \cellcolor{gray!6}{\textipa{/saIt/}} & \cellcolor{gray!6}{\textipa{/f3 \textrhoticity :/}} & \cellcolor{gray!6}{/\textipa{"faI.@r}/}\\
-<o> & \textipa{/nA:t/} & \textipa{/noUt/} & \textipa{/O:r/} & \textipa{/O:r/}\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{\textipa{/k2t/}} & \cellcolor{gray!6}{\textipa{/kju:t/}} & \cellcolor{gray!6}{\textipa{/p3 \textrhoticity :/}} & \cellcolor{gray!6}{\textipa{/pjUr/}}\\
-\addlinespace
-<u2> & \textipa{/pUt/} &  &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> V C-r C/# </th>
+   <th style="text-align:left;"> V C-r V </th>
+   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
+   <th style="text-align:left;"> V &lt;r&gt; V </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;a&gt; </td>
+   <td style="text-align:left;"> /hæt/ </td>
+   <td style="text-align:left;"> /heɪt/ </td>
+   <td style="text-align:left;"> /kɑːr/ </td>
+   <td style="text-align:left;"> /ker/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;e&gt; </td>
+   <td style="text-align:left;"> /pet/ </td>
+   <td style="text-align:left;"> /piːt/ </td>
+   <td style="text-align:left;"> /hər/ </td>
+   <td style="text-align:left;"> /hɪr/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;i&gt; </td>
+   <td style="text-align:left;"> /sɪt/ </td>
+   <td style="text-align:left;"> /saɪt/ </td>
+   <td style="text-align:left;"> /fɜ˞ː/ </td>
+   <td style="text-align:left;"> /'faɪ.ər/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;o&gt; </td>
+   <td style="text-align:left;"> /nɑːt/ </td>
+   <td style="text-align:left;"> /noʊt/ </td>
+   <td style="text-align:left;"> /ɔːr/ </td>
+   <td style="text-align:left;"> /ɔːr/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u&gt; </td>
+   <td style="text-align:left;"> /kʌt/ </td>
+   <td style="text-align:left;"> /kjuːt/ </td>
+   <td style="text-align:left;"> /pɜ˞ː/ </td>
+   <td style="text-align:left;"> /pjʊr/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;u2&gt; </td>
+   <td style="text-align:left;"> /pʊt/ </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
 Vowels not present in this chart:
 
-* /\textipa{OI}/
-* /\textipa{aU}/
-* /\textipa{@}/
+* /ɔɪ/
+* /aʊ/
+* /ə/
 
 
 ### Exercises
 
 
-\begin{multicols}{2}
-\begin{enumerate}
-\setlength\itemsep{0.25cm}
-\item /\textipa{mI@}/\hfill\textit{\textbf{mere\hspace*{0.5cm}}}\item /\textipa{SeIks}/\hfill\textit{\textbf{shakes\hspace*{0.5cm}}}\item /\textipa{pUS}/\hfill\textit{\textbf{push\hspace*{0.5cm}}}\item /\textipa{Se@}/\hfill\textit{\textbf{share\hspace*{0.5cm}}}\item /\textipa{tSO:}/\hfill\textit{\textbf{chore\hspace*{0.5cm}}}\item /\textipa{TraIv}/\hfill\textit{\textbf{thrive\hspace*{0.5cm}}}\item /\textipa{str6N}/\hfill\textit{\textbf{strong\hspace*{0.5cm}}}\item /\textipa{ru:n}/\hfill\textit{\textbf{rune\hspace*{0.5cm}}}\item /\textipa{f3:n}/\hfill\textit{\textbf{fern\hspace*{0.5cm}}}\item /\textipa{"taI.@}/\hfill\textit{\textbf{tire\hspace*{0.5cm}}}\end{enumerate}
-\end{multicols}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> IPA </th>
+   <th style="text-align:left;"> Word </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> /mɪə/ </td>
+   <td style="text-align:left;"> mere </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /ʃeɪks/ </td>
+   <td style="text-align:left;"> shakes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /pʊʃ/ </td>
+   <td style="text-align:left;"> push </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /ʃeə/ </td>
+   <td style="text-align:left;"> share </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /tʃɔː/ </td>
+   <td style="text-align:left;"> chore </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /θraɪv/ </td>
+   <td style="text-align:left;"> thrive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /strɒŋ/ </td>
+   <td style="text-align:left;"> strong </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /ruːn/ </td>
+   <td style="text-align:left;"> rune </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /fɜːn/ </td>
+   <td style="text-align:left;"> fern </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /'taɪ.ə/ </td>
+   <td style="text-align:left;"> tire </td>
+  </tr>
+</tbody>
+</table>
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{shard} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{SA:d}/}\\
-gem & /1/ & /\textipa{dZem}/\\
-\cellcolor{gray!6}{shirt} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{S3:t}/}\\
-chat & /1/ & /\textipa{tS\ae t}/\\
-\cellcolor{gray!6}{curt} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{k3:t}/}\\
-\addlinespace
-jug & /1/ & /\textipa{dZ2g}/\\
-\cellcolor{gray!6}{this} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{DIs}/}\\
-scheme & /1/ & /\textipa{ski:m}/\\
-\cellcolor{gray!6}{sworn} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{swO:n}/}\\
-gnome & /1/ & /\textipa{n@Um}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> shard </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /ʃɑːd/ </td>
+   <td style="text-align:left;"> /ʃɑːrd/ </td>
+   <td style="text-align:left;"> ![](sounds/shard-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> gem </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /dʒem/ </td>
+   <td style="text-align:left;"> /dʒem/ </td>
+   <td style="text-align:left;"> ![](sounds/gem-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> shirt </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /ʃɜːt/ </td>
+   <td style="text-align:left;"> /ʃɜ˞ːt/ </td>
+   <td style="text-align:left;"> ![](sounds/shirt-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> chat </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /tʃæt/ </td>
+   <td style="text-align:left;"> /tʃæt/ </td>
+   <td style="text-align:left;"> ![](sounds/chat-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> curt </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /kɜːt/ </td>
+   <td style="text-align:left;"> /kɜ˞ːt/ </td>
+   <td style="text-align:left;"> ![](sounds/curt-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> jug </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /dʒʌg/ </td>
+   <td style="text-align:left;"> /dʒʌg/ </td>
+   <td style="text-align:left;"> ![](sounds/jug-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> this </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /ðɪs/ </td>
+   <td style="text-align:left;"> /ðɪs/ </td>
+   <td style="text-align:left;"> ![](sounds/this-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> scheme </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /skiːm/ </td>
+   <td style="text-align:left;"> /skiːm/ </td>
+   <td style="text-align:left;"> ![](sounds/scheme-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> sworn </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /swɔːn/ </td>
+   <td style="text-align:left;"> /swɔːrn/ </td>
+   <td style="text-align:left;"> ![](sounds/sworn-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> gnome </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /nəʊm/ </td>
+   <td style="text-align:left;"> /noʊmz/ </td>
+   <td style="text-align:left;"> ![](sounds/gnome-6.mp3) </td>
+  </tr>
+</tbody>
+</table>

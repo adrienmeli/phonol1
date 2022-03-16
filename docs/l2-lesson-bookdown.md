@@ -6,38 +6,70 @@
 
 Combien de sons différents entendez-vous dans les mots suivants?
 
+.small[
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Mot </th>
+   <th style="text-align:right;"> Nombre de sons différents </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> have </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TV </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> watch </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> feeling </td>
+   <td style="text-align:right;"> 5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> push </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> bag </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> light </td>
+   <td style="text-align:right;"> 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> key </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> laptop </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> star </td>
+   <td style="text-align:right;"> 3 </td>
+  </tr>
+</tbody>
+</table>
 
-
-\begin{longtable}{lr}
-\toprule
-Mot & Nombre de sons différents\\
-\midrule
-\cellcolor{gray!6}{have} & \cellcolor{gray!6}{3}\\
-TV & 4\\
-\cellcolor{gray!6}{watch} & \cellcolor{gray!6}{4}\\
-feeling & 5\\
-\cellcolor{gray!6}{push} & \cellcolor{gray!6}{3}\\
-\addlinespace
-bag & 3\\
-\cellcolor{gray!6}{light} & \cellcolor{gray!6}{4}\\
-key & 2\\
-\cellcolor{gray!6}{laptop} & \cellcolor{gray!6}{6}\\
-star & 3\\
-\bottomrule
-\end{longtable}
-
-
+]
  
-
+---
 
 ## Principes de transcription
 
 * Un son  $\rightarrow$ un symbole
 
-* Si le son est long, on lui ajoute /\textipa{:}/
+* Si le son est long, on lui ajoute /ː/
 
-
+--
 
 ### Conventions de notation
  
@@ -46,11 +78,11 @@ star & 3\\
 * // pour les transcriptions phonologiques (dites "larges")
 
 * [] pour les transcriptions phonétiques (dites "étroites")
-  - *Exemple :* le < -t > dans < pretty > se prononce  [\textipa{R}] en américain.
+  - *Exemple :* le < -t > dans < pretty > se prononce  [ɾ] en américain.
 
 **NB :** Ce semestre sera essentiellement consacré aux transcriptions larges.
 
-
+---
 
 ## Les consonnes
 
@@ -58,100 +90,270 @@ star & 3\\
 
 * Pouvez-vous trouver des mots anglais dont la prononciation comporte ces sons ?
 
+--
 
+.pull-left[
 
+* /ʃ/
 
+* /ʒ/
 
-* /\textipa{S}/
+* /θ/
 
-* /\textipa{Z}/
+* /ð/
 
-* /\textipa{T}/
+* /ŋ/
 
-* /\textipa{D}/
+]
 
-* /\textipa{N}/
+--
 
-
-
-
-
-
+.pull-right[
 
 **ET C'EST TOUT !**
 
+]
 
+---
 
-
-
-À propos de /\textipa{N}/ : ce phonème a-t-il
+À propos de /ŋ/ : ce phonème a-t-il
 une particularité qui le distingue des autres phonèmes ?
 
-
+--
 
 On ne le trouve qu'en fin de syllabe.
 
-
+---
 
 ### Pratique : transcription des consonnes
  
 Pour cet exercice, nous allons utiliser les voyelles suivantes :
 
-*  /\textipa{I}/ comme dans "hit".
-*  /\textipa{e}/ comme dans "bed".
-*  /\textipa{eI}/ comme dans "hate".
-*  /\textipa{aI}/ comme dans "site".
-*  /\textipa{aU}/ comme dans "now".
+*  /ɪ/ comme dans "hit".
+*  /e/ comme dans "bed".
+*  /eɪ/ comme dans "hate".
+*  /aɪ/ comme dans "site".
+*  /aʊ/ comme dans "now".
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> faith </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /feɪθ/ </td>
+   <td style="text-align:left;"> /feɪθ/ </td>
+   <td style="text-align:left;"> ![](sounds/faith-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> doubt </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /daʊt/ </td>
+   <td style="text-align:left;"> /daʊt/ </td>
+   <td style="text-align:left;"> ![](sounds/doubt-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> shout </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /ʃaʊt/ </td>
+   <td style="text-align:left;"> /ʃaʊt/ </td>
+   <td style="text-align:left;"> ![](sounds/shout-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> right </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /raɪt/ </td>
+   <td style="text-align:left;"> /raɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/right-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> age </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /eɪdʒ/ </td>
+   <td style="text-align:left;"> /eɪdʒ/ </td>
+   <td style="text-align:left;"> ![](sounds/age-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> thing </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /θɪŋ/ </td>
+   <td style="text-align:left;"> /θɪŋ/ </td>
+   <td style="text-align:left;"> ![](sounds/thing-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> face </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /feɪs/ </td>
+   <td style="text-align:left;"> /feɪs/ </td>
+   <td style="text-align:left;"> ![](sounds/face-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> now </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /naʊ/ </td>
+   <td style="text-align:left;"> /naʊ/ </td>
+   <td style="text-align:left;"> ![](sounds/now-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> wing </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /wɪŋ/ </td>
+   <td style="text-align:left;"> /wɪŋ/ </td>
+   <td style="text-align:left;"> ![](sounds/wing-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> shy </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /ʃaɪ/ </td>
+   <td style="text-align:left;"> /ʃaɪ/ </td>
+   <td style="text-align:left;"> ![](sounds/shy-01.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{faith} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{feIT}/}\\
-doubt & /1/ & /\textipa{daUt}/\\
-\cellcolor{gray!6}{shout} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{SaUt}/}\\
-right & /1/ & /\textipa{raIt}/\\
-\cellcolor{gray!6}{age} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{eIdZ}/}\\
-\addlinespace
-thing & /1/ & /\textipa{TIN}/\\
-\cellcolor{gray!6}{face} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{feIs}/}\\
-now & /1/ & /\textipa{naU}/\\
-\cellcolor{gray!6}{wing} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{wIN}/}\\
-shy & /1/ & /\textipa{SaI}/\\
-\bottomrule
-\end{longtable}
+---
 
-\pagebreak
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> straight </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /streɪt/ </td>
+   <td style="text-align:left;"> /streɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/straight-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> crowd </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /kraʊd/ </td>
+   <td style="text-align:left;"> /kraʊd/ </td>
+   <td style="text-align:left;"> ![](sounds/crowd-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> thick </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /θɪk/ </td>
+   <td style="text-align:left;"> /θɪk/ </td>
+   <td style="text-align:left;"> ![](sounds/thick-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> shrine </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /ʃraɪn/ </td>
+   <td style="text-align:left;"> /ʃraɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/shrine-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> grape </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /greɪp/ </td>
+   <td style="text-align:left;"> /greɪp/ </td>
+   <td style="text-align:left;"> ![](sounds/grape-10.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> child </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /tʃaɪəld/ </td>
+   <td style="text-align:left;"> /tʃaɪld/ </td>
+   <td style="text-align:left;"> ![](sounds/child-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> proud </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /praʊd/ </td>
+   <td style="text-align:left;"> /praʊd/ </td>
+   <td style="text-align:left;"> ![](sounds/proud-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hate </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /heɪt/ </td>
+   <td style="text-align:left;"> /heɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/hate-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> spring </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /sprɪŋ/ </td>
+   <td style="text-align:left;"> /sprɪŋ/ </td>
+   <td style="text-align:left;"> ![](sounds/spring-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> jive </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /dʒaɪv/ </td>
+   <td style="text-align:left;"> /dʒaɪv/ </td>
+   <td style="text-align:left;"> ![](sounds/jive-1.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{straight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{streIt}/}\\
-crowd & /1/ & /\textipa{kraUd}/\\
-\cellcolor{gray!6}{thick} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{TIk}/}\\
-shrine & /1/ & /\textipa{SraIn}/\\
-\cellcolor{gray!6}{grape} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{greIp}/}\\
-\addlinespace
-child & /1/ & /\textipa{tSaI@ld}/\\
-\cellcolor{gray!6}{proud} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{praUd}/}\\
-hate & /1/ & /\textipa{heIt}/\\
-\cellcolor{gray!6}{spring} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{sprIN}/}\\
-jive & /1/ & /\textipa{dZaIv}/\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 ## Homework
 
-
-\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
-\toprule
-Échéances & Description\\
-\midrule
-\cellcolor{gray!6}{04/10/2021} & \cellcolor{gray!6}{Transcrire les mots donnés en cours.}\\
-\bottomrule
-\end{longtable}
+<table class="table table-hover" style="margin-left: auto; margin-right: auto;">
+<thead><tr>
+<th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="1"><div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">Échéances</div></th>
+<th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="1"><div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">Transcrire les mots donnés en cours.</div></th>
+</tr></thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;width: 20%; font-weight: bold;vertical-align: middle !important;" rowspan="10"> 04/10/2021 </td>
+   <td style="text-align:center;"> straight </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:center;"> crowd </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:center;"> thick </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:center;"> shrine </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:center;"> grape </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:center;"> child </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:center;"> proud </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:center;"> hate </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:center;"> spring </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:center;"> jive </td>
+  </tr>
+</tbody>
+</table>

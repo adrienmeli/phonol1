@@ -8,55 +8,55 @@ Nous connaissons donc :
 
 * tous les sons consonantiques
 
-* les voyelles /\textipa{I}/ /\textipa{e}/ /\textipa{eI}/ /\textipa{aI}/ /\textipa{aU}/
+* les voyelles /ɪ/ /e/ /eɪ/ /aɪ/ /aʊ/
 
-
+---
 
 ## Correction du travail
 
+---
 
-
-### Sons comme dans "hat" /\textipa{h\ae t}/
-
-
+### Sons comme dans "hat" /hæt/
 
 
 
-### Sons comme dans "pet" /\textipa{pet}/
+---
+
+### Sons comme dans "pet" /pet/
  
 
 
+---
 
-
-### Sons comme dans "sit" /\textipa{sIt}/
+### Sons comme dans "sit" /sɪt/
  
 
 
+---
 
-
-### Sons comme dans "not" /\textipa{n6t}/
+### Sons comme dans "not" /nɒt/
  
 
 
+---
 
-
-### Sons comme dans "cut" /\textipa{k2t}/
+### Sons comme dans "cut" /kʌt/
  
 
 
+---
 
-
-### Sons comme dans "put" /\textipa{pUt}/
+### Sons comme dans "put" /pʊt/
  
 
 
-
+---
 
 * Quelle est la relation entre l'orthographe et la prononciation de tous ces mots ?
 
 * Formulez la règle : "*lorsque la voyelle < X > est suivie de ..., elle se prononce..."*
 
-
+---
 
 ### Terminologie française
 
@@ -68,7 +68,7 @@ ou
 
 * relâchées
 
-
+---
 
 ### English terminology
 
@@ -78,104 +78,220 @@ These vowels are called:
 * lax
 * checked
 
-
+---
 
 ## Exercices
 
 ### Lax vowels only
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{thud} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{T2d}/}\\
-yank & /1/ & /\textipa{j\ae Nk}/\\
-\cellcolor{gray!6}{thatch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{T\ae tS}/}\\
-pith & /1/ & /\textipa{pIT}/\\
-\cellcolor{gray!6}{jot} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZ6t}/}\\
-\addlinespace
-much & /1/ & /\textipa{m2tS}/\\
-\cellcolor{gray!6}{yuck} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{j2k}/}\\
-moth & /1/ & /\textipa{m6T}/\\
-\cellcolor{gray!6}{shrunk} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Sr2Nk}/}\\
-pull & /1/ & /\textipa{pUl}/\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> thud </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /θʌd/ </td>
+   <td style="text-align:left;"> /θʌd/ </td>
+   <td style="text-align:left;"> ![](sounds/thud-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> yank </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /jæŋk/ </td>
+   <td style="text-align:left;"> /jæŋk/ </td>
+   <td style="text-align:left;"> ![](sounds/yank-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> thatch </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /θætʃ/ </td>
+   <td style="text-align:left;"> /θætʃ/ </td>
+   <td style="text-align:left;"> ![](sounds/thatch-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> pith </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /pɪθ/ </td>
+   <td style="text-align:left;"> /pɪθ/ </td>
+   <td style="text-align:left;"> ![](sounds/pith-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> jot </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /dʒɒt/ </td>
+   <td style="text-align:left;"> /dʒɑːt/ </td>
+   <td style="text-align:left;"> ![](sounds/jot-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> much </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /mʌtʃ/ </td>
+   <td style="text-align:left;"> /mʌtʃ/ </td>
+   <td style="text-align:left;"> ![](sounds/much-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> yuck </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /jʌk/ </td>
+   <td style="text-align:left;"> /jʌk/ </td>
+   <td style="text-align:left;"> ![](sounds/yuck-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> moth </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /mɒθ/ </td>
+   <td style="text-align:left;"> /mɔːθ/ </td>
+   <td style="text-align:left;"> ![](sounds/moth-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> shrunk </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /ʃrʌŋk/ </td>
+   <td style="text-align:left;"> /ʃrʌŋk/ </td>
+   <td style="text-align:left;"> ![](sounds/shrunk-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> pull </td>
+   <td style="text-align:left;"> /1/ </td>
+   <td style="text-align:left;"> /pʊl/ </td>
+   <td style="text-align:left;"> /pʊl/ </td>
+   <td style="text-align:left;"> ![](sounds/pull-5.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 ### All the now-known vowels!
 
 Listen to the following words and transcribe them:
 
-
-
- 
-\begin{longtable}{l}
-\toprule
-\textbf{\textbf{Words}}\\
-\midrule
-\cellcolor{gray!6}{thrash}\\
-south\\
-\cellcolor{gray!6}{pain}\\
-shock\\
-\cellcolor{gray!6}{shut}\\
-\addlinespace
-then\\
-\cellcolor{gray!6}{swing}\\
-jam\\
-\cellcolor{gray!6}{house}\\
-throng\\
-\bottomrule
-\end{longtable} 
-
----
-
-Listen to the following words and transcribe them:
-
-
-
- 
-\begin{longtable}{l}
-\toprule
-\textbf{\textbf{Words}}\\
-\midrule
-\cellcolor{gray!6}{fridge}\\
-hob\\
-\cellcolor{gray!6}{shroud}\\
-thrush\\
-\cellcolor{gray!6}{thank}\\
-\addlinespace
-sounds\\
-\cellcolor{gray!6}{come}\\
-sunk\\
-\cellcolor{gray!6}{bathe}\\
-shame\\
-\bottomrule
-\end{longtable} 
-
----
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;font-weight: bold;font-weight: bold;"> Words </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/thrash-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/south-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/pain-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/shock-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/shut-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/then-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/swing-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/jam-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/house-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/throng-1.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
 Listen to the following words and transcribe them:
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;font-weight: bold;font-weight: bold;"> Words </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/fridge-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/hob-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/shroud-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/thrush-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/thank-9.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/NA) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/come-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/sunk-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/bathe-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/shame-9.mp3) </td>
+  </tr>
+</tbody>
+</table>
 
+Listen to the following words and transcribe them:
 
- 
-\begin{longtable}{l}
-\toprule
-\textbf{\textbf{Words}}\\
-\midrule
-\cellcolor{gray!6}{swung}\\
-ape\\
-\cellcolor{gray!6}{proud}\\
-range\\
-\cellcolor{gray!6}{head}\\
-\addlinespace
-pouch\\
-\cellcolor{gray!6}{dash}\\
-shock\\
-\cellcolor{gray!6}{smith}\\
-vain\\
-\bottomrule
-\end{longtable} 
-
----
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;font-weight: bold;font-weight: bold;"> Words </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/swung-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/ape-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/proud-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/range-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/head-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/pouch-5.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/dash-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/shock-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/smith-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ![](sounds/vain-01.mp3) </td>
+  </tr>
+</tbody>
+</table>

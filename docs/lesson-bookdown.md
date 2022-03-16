@@ -4,17 +4,107 @@
 
 ## Warming up
 
-\begin{multicols}{2}
-\begin{enumerate}
-\setlength\itemsep{0.25cm}
-\item /\textipa{flO:nt}/\hfill\textit{\textbf{flaunt\hspace*{0.5cm}}}\item /\textipa{SI@}/\hfill\textit{\textbf{shear\hspace*{0.5cm}}}\item /\textipa{bi:t}/\hfill\textit{\textbf{beat\hspace*{0.5cm}}}\item /\textipa{trO:l}/\hfill\textit{\textbf{trawl\hspace*{0.5cm}}}\item /\textipa{st@Uv}/\hfill\textit{\textbf{stove\hspace*{0.5cm}}}\item /\textipa{sO:s}/\hfill\textit{\textbf{source\hspace*{0.5cm}}}\item /\textipa{tu:m}/\hfill\textit{\textbf{tomb\hspace*{0.5cm}}}\item /\textipa{Tri:}/\hfill\textit{\textbf{three\hspace*{0.5cm}}}\item /\textipa{dred}/\hfill\textit{\textbf{dread\hspace*{0.5cm}}}\item /\textipa{T2g}/\hfill\textit{\textbf{thug\hspace*{0.5cm}}}\end{enumerate}
-\end{multicols}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> IPA </th>
+   <th style="text-align:left;"> Word </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> /flɔːnt/ </td>
+   <td style="text-align:left;"> flaunt </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /ʃɪə/ </td>
+   <td style="text-align:left;"> shear </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /biːt/ </td>
+   <td style="text-align:left;"> beat </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /trɔːl/ </td>
+   <td style="text-align:left;"> trawl </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /stəʊv/ </td>
+   <td style="text-align:left;"> stove </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /sɔːs/ </td>
+   <td style="text-align:left;"> source </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /tuːm/ </td>
+   <td style="text-align:left;"> tomb </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /θriː/ </td>
+   <td style="text-align:left;"> three </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /dred/ </td>
+   <td style="text-align:left;"> dread </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /θʌg/ </td>
+   <td style="text-align:left;"> thug </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{multicols}{2}
-\begin{enumerate}
-\setlength\itemsep{0.25cm}
-\item /\textipa{bI@d}/\hfill\textit{\textbf{beard\hspace*{0.5cm}}}\item /\textipa{bri:Dd}/\hfill\textit{\textbf{breathed\hspace*{0.5cm}}}\item /\textipa{graUt}/\hfill\textit{\textbf{grout\hspace*{0.5cm}}}\item /\textipa{O:t}/\hfill\textit{\textbf{ought\hspace*{0.5cm}}}\item /\textipa{skrO:l}/\hfill\textit{\textbf{scrawl\hspace*{0.5cm}}}\item /\textipa{bO:t}/\hfill\textit{\textbf{bought\hspace*{0.5cm}}}\item /\textipa{hO:nd}/\hfill\textit{\textbf{horned\hspace*{0.5cm}}}\item /\textipa{ji:st}/\hfill\textit{\textbf{yeast\hspace*{0.5cm}}}\item /\textipa{ni:@l}/\hfill\textit{\textbf{kneel\hspace*{0.5cm}}}\item /\textipa{breT}/\hfill\textit{\textbf{breath\hspace*{0.5cm}}}\end{enumerate}
-\end{multicols}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> IPA </th>
+   <th style="text-align:left;"> Word </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> /bɪəd/ </td>
+   <td style="text-align:left;"> beard </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /briːðd/ </td>
+   <td style="text-align:left;"> breathed </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /graʊt/ </td>
+   <td style="text-align:left;"> grout </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /ɔːt/ </td>
+   <td style="text-align:left;"> ought </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /skrɔːl/ </td>
+   <td style="text-align:left;"> scrawl </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /bɔːt/ </td>
+   <td style="text-align:left;"> bought </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /hɔːnd/ </td>
+   <td style="text-align:left;"> horned </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /jiːst/ </td>
+   <td style="text-align:left;"> yeast </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /niːl/ </td>
+   <td style="text-align:left;"> kneel </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> /breθ/ </td>
+   <td style="text-align:left;"> breath </td>
+  </tr>
+</tbody>
+</table>
 
 ## Polysyllabic words
 
@@ -26,9 +116,9 @@
 
 * No words can begin with two unstressed syllables.
 
-* The vowels of unstressed syllables are often reduced to /\textipa{@}/, /\textipa{i}/,  /\textipa{u}/, /\textipa{I}/ or /\textipa{U}/.
+* The vowels of unstressed syllables are often reduced to /ə/, /i/,  /u/, /ɪ/ or /ʊ/.
 
-* /\textipa{@}/, /\textipa{i}/ or /\textipa{u}/ can **NEVER** be the vowels of stressed syllables.
+* /ə/, /i/ or /u/ can **NEVER** be the vowels of stressed syllables.
 
 ### Conventions
 
@@ -36,39 +126,156 @@
   - "finish"  $\rightarrow$ /10/
   - "result"  $\rightarrow$ /01/
 
-* The primary stress of a word is marked as /\textipa{"}/ before the syllable.
-  - "finish"  $\rightarrow$ /\textipa{"fIn.IS}/
-  - "result"  $\rightarrow$ /\textipa{ri."z2lt}/
+* The primary stress of a word is marked as /"/ before the syllable.
+  - "finish"  $\rightarrow$ /'fɪn.ɪʃ/
+  - "result"  $\rightarrow$ /ri.'zʌlt/
 
 
 ## Exercises
 
-
-\begin{longtable}{lll}
-\toprule
-Word & Stress Pattern & IPA (RP)\\
-\midrule
-\cellcolor{gray!6}{mountain} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"maUnt.In}/}\\
-table & /10/ & /\textipa{"teIb.@l}/\\
-\cellcolor{gray!6}{window} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"wInd.@U}/}\\
-office & /10/ & /\textipa{"6f.Is}/\\
-\cellcolor{gray!6}{building} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"bIld.IN}/}\\
-\addlinespace
-computer & /010/ & /\textipa{k@m."pju:t.@}/\\
-\cellcolor{gray!6}{jacket} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dZ\ae k.It}/}\\
-handle & /10/ & /\textipa{"h\ae nd.@l}/\\
-\cellcolor{gray!6}{glasses} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/NA/}\\
-ceiling & /10/ & /\textipa{"si:l.IN}/\\
-\addlinespace
-\cellcolor{gray!6}{attain} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."teIn}/}\\
-data & /10/ & /\textipa{"deIt.@}/\\
-\cellcolor{gray!6}{doctor} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"d6kt.@}/}\\
-even & /10/ & /\textipa{"i:v.@n}/\\
-\cellcolor{gray!6}{husband} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"h2z.b@nd}/}\\
-\addlinespace
-cupboard & /10/ & /\textipa{"k2b.@d}/\\
-\cellcolor{gray!6}{movie} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"mu:v.i}/}\\
-another & /010/ & /\textipa{@."n2D.@}/\\
-\cellcolor{gray!6}{jumper} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dZ2mp.@}/}\\
-\bottomrule
-\end{longtable}
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Word </th>
+   <th style="text-align:left;"> Stress Pattern </th>
+   <th style="text-align:left;"> IPA (RP) </th>
+   <th style="text-align:left;"> Received Pronunciation </th>
+   <th style="text-align:left;"> General American </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> mountain </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'maʊnt.ɪn/ </td>
+   <td style="text-align:left;"> /'maʊnt.ɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/mountain-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> table </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'teɪb.əl/ </td>
+   <td style="text-align:left;"> /'teɪb.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/table-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> window </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'wɪnd.əʊ/ </td>
+   <td style="text-align:left;"> /'wɪnd.əʊ/ </td>
+   <td style="text-align:left;"> ![](sounds/window-2.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> office </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'ɒf.ɪs/ </td>
+   <td style="text-align:left;"> /'ɔːf.ɪs/ </td>
+   <td style="text-align:left;"> ![](sounds/office-11.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> building </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'bɪld.ɪŋ/ </td>
+   <td style="text-align:left;"> /'bɪld.ɪŋ/ </td>
+   <td style="text-align:left;"> ![](sounds/building-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> computer </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /kəm.'pjuːt.ə/ </td>
+   <td style="text-align:left;"> /kəm.'pjuːt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/computer-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> jacket </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'dʒæk.ɪt/ </td>
+   <td style="text-align:left;"> /'dʒæk.ɪt/ </td>
+   <td style="text-align:left;"> ![](sounds/jacket-4.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> handle </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'hænd.əl/ </td>
+   <td style="text-align:left;"> /'hænd.əl/ </td>
+   <td style="text-align:left;"> ![](sounds/handle-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> glasses </td>
+   <td style="text-align:left;"> // </td>
+   <td style="text-align:left;"> /NA/ </td>
+   <td style="text-align:left;"> glasses </td>
+   <td style="text-align:left;"> ![](sounds/NA) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ceiling </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'siːl.ɪŋ/ </td>
+   <td style="text-align:left;"> /'siːl.ɪŋ/ </td>
+   <td style="text-align:left;"> ![](sounds/ceiling-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> attain </td>
+   <td style="text-align:left;"> /01/ </td>
+   <td style="text-align:left;"> /ə.'teɪn/ </td>
+   <td style="text-align:left;"> /ə.'teɪn/ </td>
+   <td style="text-align:left;"> ![](sounds/attain-8.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> data </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'deɪt.ə/ </td>
+   <td style="text-align:left;"> /'deɪt.ə/ </td>
+   <td style="text-align:left;"> ![](sounds/data-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> doctor </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'dɒkt.ə/ </td>
+   <td style="text-align:left;"> /'dɑːkt.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/doctor-7.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> even </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'iːv.ən/ </td>
+   <td style="text-align:left;"> /'iːv.ən/ </td>
+   <td style="text-align:left;"> ![](sounds/even-6.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> husband </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'hʌz.bənd/ </td>
+   <td style="text-align:left;"> /'hʌz.bənd/ </td>
+   <td style="text-align:left;"> ![](sounds/husband-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> cupboard </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'kʌb.əd/ </td>
+   <td style="text-align:left;"> /'kʌb.əd/ </td>
+   <td style="text-align:left;"> ![](sounds/cupboard-01.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> movie </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'muːv.i/ </td>
+   <td style="text-align:left;"> /'muːv.i/ </td>
+   <td style="text-align:left;"> ![](sounds/movie-3.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> another </td>
+   <td style="text-align:left;"> /010/ </td>
+   <td style="text-align:left;"> /ə.'nʌð.ə/ </td>
+   <td style="text-align:left;"> /ə.'nʌð.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/another-1.mp3) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> jumper </td>
+   <td style="text-align:left;"> /10/ </td>
+   <td style="text-align:left;"> /'dʒʌmp.ə/ </td>
+   <td style="text-align:left;"> /'dʒʌmp.ər/ </td>
+   <td style="text-align:left;"> ![](sounds/jumper-9.mp3) </td>
+  </tr>
+</tbody>
+</table>

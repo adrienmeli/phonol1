@@ -10,21 +10,24 @@
 
 * L'autre composante est "EXPRESSION. COMPREHENSION ORALE DISCOURS ET DOCUMENTS" (1LLE1POA) 
 
-
+---
 
 ### Échéances
 
+<table class="table table-hover" style="margin-left: auto; margin-right: auto;">
+<tbody>
+  <tr>
+   <td style="text-align:center;width: 20%; font-weight: bold;"> 25/10/2021 </td>
+   <td style="text-align:center;"> Examen de mi-semestre (1h) </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;width: 20%; font-weight: bold;"> 13/12/2021 </td>
+   <td style="text-align:center;"> Examen de fin de semestre (1h) </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
-\toprule
-Échéances & Instructions\\
-\midrule
-\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)}\\
-13/12/2021 & Examen de fin de semestre (1h)\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 ### Éléments pratiques
 
@@ -36,7 +39,7 @@
 
 * [adrienmeli.xyz](https://adrienmeli.xyz)
 
-
+---
 
 ## Phonétique et phonologie
 
@@ -44,27 +47,36 @@
 
 * **Phonologie :** "Science de la face fonctionnelle des sons du langage humain, la phonologie étudie le rôle que jouent les éléments phoniques de la chaîne parlée dans la communication. Elle s'oppose en cela à la «phonétique», qui étudie les mêmes éléments phoniques, indépendamment de leur fonction linguistique" (DDL1976 -> ???, cf. [cnrtl.fr](https://www.cnrtl.fr/definition/phonologie))
  
-
+---
 
 ### Exemple
 
 * "water"
 
-
+--
 
 La phonétique s'occupe des **phones**, la phonologie, des **phonèmes**.
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Expression </th>
+   <th style="text-align:left;"> Définition </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> phone </td>
+   <td style="text-align:left;"> Son d'un langage </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> phonème </td>
+   <td style="text-align:left;"> Le plus petit segment phonique (dépourvu de sens) permettant seul ou en combinaison avec d'autres phonèmes de constituer des signifiants ou de les distinguer entre eux </td>
+  </tr>
+</tbody>
+</table>
 
-\begin{longtable}{ll}
-\toprule
-Expression & Définition\\
-\midrule
-\cellcolor{gray!6}{phone} & \cellcolor{gray!6}{Son d'un langage}\\
-phonème & Le plus petit segment phonique (dépourvu de sens) permettant seul ou en combinaison avec d'autres phonèmes de constituer des signifiants ou de les distinguer entre eux\\
-\bottomrule
-\end{longtable}
-
-
+---
 
 ## La représentation des sons
 
@@ -74,7 +86,7 @@ La représentation des sons se fait avec les symboles de l'alphabet phonétique 
 
 [IPA Chart](https://www.ipachart.com/)
 
-
+---
 
 ### Les sons de l'anglais
 
@@ -84,45 +96,66 @@ Les sons de l'anglais sont bien sûr moins nombreux que ceux de la liste établi
 
 Ce sont ces symboles qu'il faudra connaître en priorité.
 
-
+---
 
 ## Premiers pas
 
-
+---
 
 ### Exercice 
 
 Combien de sons différents entendez-vous dans les mots suivants?
 
+.small[
 
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Mot </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> have </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TV </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> watch </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> feeling </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> push </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> bag </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> light </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> key </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> laptop </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> star </td>
+  </tr>
+</tbody>
+</table>
 
-
-\begin{longtable}{l}
-\toprule
-Mot\\
-\midrule
-\cellcolor{gray!6}{have}\\
-TV\\
-\cellcolor{gray!6}{watch}\\
-feeling\\
-\cellcolor{gray!6}{push}\\
-\addlinespace
-bag\\
-\cellcolor{gray!6}{light}\\
-key\\
-\cellcolor{gray!6}{laptop}\\
-star\\
-\bottomrule
-\end{longtable}
-
-
+]
  
-
+---
 
 
 ## References
 
-
+.small[
 
 Jones, D., P. Roach, J. Setter, et al. (2011). _Cambridge English
 Pronouncing Dictionary_. Cambridge University Press.
@@ -132,7 +165,7 @@ Mounin, G. (1974). _Dictionnaire de la linguistique_. Paris: PUF.
 Wells, J. (2008). _Longman Pronunciation Dictionary_. London: Pearson
 Longman.
 
-
+]
 
  
  
