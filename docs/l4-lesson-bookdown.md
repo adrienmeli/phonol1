@@ -107,14 +107,14 @@ These vowels are called:
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /jæŋk/ </td>
    <td style="text-align:left;"> /jæŋk/ </td>
-   <td style="text-align:left;"> ![](sounds/yank-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/yank-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> thatch </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /θætʃ/ </td>
    <td style="text-align:left;"> /θætʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/thatch-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thatch-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> pith </td>
@@ -128,14 +128,14 @@ These vowels are called:
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /dʒɒt/ </td>
    <td style="text-align:left;"> /dʒɑːt/ </td>
-   <td style="text-align:left;"> ![](sounds/jot-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/jot-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> much </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /mʌtʃ/ </td>
    <td style="text-align:left;"> /mʌtʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/much-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/much-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> yuck </td>
@@ -149,7 +149,7 @@ These vowels are called:
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /mɒθ/ </td>
    <td style="text-align:left;"> /mɔːθ/ </td>
-   <td style="text-align:left;"> ![](sounds/moth-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/moth-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> shrunk </td>
@@ -163,7 +163,7 @@ These vowels are called:
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /pʊl/ </td>
    <td style="text-align:left;"> /pʊl/ </td>
-   <td style="text-align:left;"> ![](sounds/pull-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pull-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -180,10 +180,10 @@ Listen to the following words and transcribe them:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> ![](sounds/thrash-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thrash-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/south-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/south-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/pain-4.mp3) </td>
@@ -192,22 +192,22 @@ Listen to the following words and transcribe them:
    <td style="text-align:left;"> ![](sounds/shock-4.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/shut-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shut-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/then-5.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/swing-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/swing-9.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/jam-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/jam-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/house-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/house-2.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/throng-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/throng-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -222,10 +222,10 @@ Listen to the following words and transcribe them:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> ![](sounds/fridge-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/fridge-01.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/hob-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hob-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/shroud-6.mp3) </td>
@@ -234,7 +234,7 @@ Listen to the following words and transcribe them:
    <td style="text-align:left;"> ![](sounds/thrush-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/thank-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thank-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/NA) </td>
@@ -243,13 +243,13 @@ Listen to the following words and transcribe them:
    <td style="text-align:left;"> ![](sounds/come-3.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/sunk-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/sunk-4.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/bathe-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bathe-01.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/shame-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shame-1.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -267,31 +267,31 @@ Listen to the following words and transcribe them:
    <td style="text-align:left;"> ![](sounds/swung-01.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/ape-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/ape-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/proud-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/proud-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/range-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/range-5.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/head-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/head-4.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/pouch-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pouch-10.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/dash-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/dash-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/shock-4.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/smith-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/smith-6.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/vain-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/vain-3.mp3) </td>
   </tr>
 </tbody>
 </table>

@@ -48,70 +48,70 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /streɪt/ </td>
    <td style="text-align:left;"> /streɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/straight-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/straight-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> crowd </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kraʊd/ </td>
    <td style="text-align:left;"> /kraʊd/ </td>
-   <td style="text-align:left;"> ![](sounds/crowd-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/crowd-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> thick </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /θɪk/ </td>
    <td style="text-align:left;"> /θɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/thick-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thick-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> shrine </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃraɪn/ </td>
    <td style="text-align:left;"> /ʃraɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/shrine-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shrine-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> grape </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /greɪp/ </td>
    <td style="text-align:left;"> /greɪp/ </td>
-   <td style="text-align:left;"> ![](sounds/grape-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/grape-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> child </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /tʃaɪəld/ </td>
    <td style="text-align:left;"> /tʃaɪld/ </td>
-   <td style="text-align:left;"> ![](sounds/child-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/child-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> proud </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /praʊd/ </td>
    <td style="text-align:left;"> /praʊd/ </td>
-   <td style="text-align:left;"> ![](sounds/proud-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/proud-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hate </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /heɪt/ </td>
    <td style="text-align:left;"> /heɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/hate-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hate-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> spring </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /sprɪŋ/ </td>
    <td style="text-align:left;"> /sprɪŋ/ </td>
-   <td style="text-align:left;"> ![](sounds/spring-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/spring-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> jive </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /dʒaɪv/ </td>
    <td style="text-align:left;"> /dʒaɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/jive-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/jive-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -136,21 +136,21 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /deθ/ </td>
    <td style="text-align:left;"> /deθ/ </td>
-   <td style="text-align:left;"> ![](sounds/death-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/death-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> shade </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃeɪd/ </td>
    <td style="text-align:left;"> /ʃeɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/shade-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shade-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cringe </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /krɪndʒ/ </td>
    <td style="text-align:left;"> /krɪndʒ/ </td>
-   <td style="text-align:left;"> ![](sounds/cringe-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cringe-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> thread </td>
@@ -164,21 +164,21 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /hed/ </td>
    <td style="text-align:left;"> /hed/ </td>
-   <td style="text-align:left;"> ![](sounds/head-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/head-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> bathe </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /beɪð/ </td>
    <td style="text-align:left;"> /beɪð/ </td>
-   <td style="text-align:left;"> ![](sounds/bathe-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bathe-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> gem </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /dʒem/ </td>
    <td style="text-align:left;"> /dʒem/ </td>
-   <td style="text-align:left;"> ![](sounds/gem-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/gem-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> chase </td>
@@ -192,14 +192,14 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /leŋθ/ </td>
    <td style="text-align:left;"> /leŋkθ/ </td>
-   <td style="text-align:left;"> ![](sounds/length-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/length-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> jail </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /dʒeɪl/ </td>
    <td style="text-align:left;"> /dʒeɪl/ </td>
-   <td style="text-align:left;"> ![](sounds/jail-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/jail-1.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -222,21 +222,21 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ɪntʃ/ </td>
    <td style="text-align:left;"> /ɪntʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/inch-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/inch-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> shout </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃaʊt/ </td>
    <td style="text-align:left;"> /ʃaʊt/ </td>
-   <td style="text-align:left;"> ![](sounds/shout-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shout-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> jade </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /dʒeɪd/ </td>
    <td style="text-align:left;"> /dʒeɪd/ </td>
-   <td style="text-align:left;"> ![](sounds/jade-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/jade-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> sixth </td>
@@ -250,21 +250,21 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /θraɪv/ </td>
    <td style="text-align:left;"> /θraɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/thrive-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thrive-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> think </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /θɪŋk/ </td>
    <td style="text-align:left;"> /θɪŋk/ </td>
-   <td style="text-align:left;"> ![](sounds/think-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/think-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> breath </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /breθ/ </td>
    <td style="text-align:left;"> /breθ/ </td>
-   <td style="text-align:left;"> ![](sounds/breath-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/breath-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> jest </td>
@@ -278,14 +278,14 @@ Transcrire tous les sons consonantiques, notamment ceux dont le symbole n'est pa
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃred/ </td>
    <td style="text-align:left;"> /ʃred/ </td>
-   <td style="text-align:left;"> ![](sounds/shred-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shred-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> lithe </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /laɪð/ </td>
    <td style="text-align:left;"> /laɪð/ </td>
-   <td style="text-align:left;"> ![](sounds/lithe-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/lithe-7.mp3) </td>
   </tr>
 </tbody>
 </table>

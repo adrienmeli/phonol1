@@ -151,35 +151,35 @@ Pour cet exercice, nous allons utiliser les voyelles suivantes :
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /feɪθ/ </td>
    <td style="text-align:left;"> /feɪθ/ </td>
-   <td style="text-align:left;"> ![](sounds/faith-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/faith-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> doubt </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /daʊt/ </td>
    <td style="text-align:left;"> /daʊt/ </td>
-   <td style="text-align:left;"> ![](sounds/doubt-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/doubt-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> shout </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃaʊt/ </td>
    <td style="text-align:left;"> /ʃaʊt/ </td>
-   <td style="text-align:left;"> ![](sounds/shout-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shout-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> right </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /raɪt/ </td>
    <td style="text-align:left;"> /raɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/right-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/right-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> age </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /eɪdʒ/ </td>
    <td style="text-align:left;"> /eɪdʒ/ </td>
-   <td style="text-align:left;"> ![](sounds/age-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/age-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> thing </td>
@@ -193,28 +193,28 @@ Pour cet exercice, nous allons utiliser les voyelles suivantes :
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /feɪs/ </td>
    <td style="text-align:left;"> /feɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/face-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/face-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> now </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /naʊ/ </td>
    <td style="text-align:left;"> /naʊ/ </td>
-   <td style="text-align:left;"> ![](sounds/now-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/now-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> wing </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /wɪŋ/ </td>
    <td style="text-align:left;"> /wɪŋ/ </td>
-   <td style="text-align:left;"> ![](sounds/wing-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/wing-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> shy </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃaɪ/ </td>
    <td style="text-align:left;"> /ʃaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/shy-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shy-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -237,70 +237,70 @@ Pour cet exercice, nous allons utiliser les voyelles suivantes :
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /streɪt/ </td>
    <td style="text-align:left;"> /streɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/straight-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/straight-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> crowd </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kraʊd/ </td>
    <td style="text-align:left;"> /kraʊd/ </td>
-   <td style="text-align:left;"> ![](sounds/crowd-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/crowd-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> thick </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /θɪk/ </td>
    <td style="text-align:left;"> /θɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/thick-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thick-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> shrine </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃraɪn/ </td>
    <td style="text-align:left;"> /ʃraɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/shrine-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shrine-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> grape </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /greɪp/ </td>
    <td style="text-align:left;"> /greɪp/ </td>
-   <td style="text-align:left;"> ![](sounds/grape-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/grape-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> child </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /tʃaɪəld/ </td>
    <td style="text-align:left;"> /tʃaɪld/ </td>
-   <td style="text-align:left;"> ![](sounds/child-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/child-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> proud </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /praʊd/ </td>
    <td style="text-align:left;"> /praʊd/ </td>
-   <td style="text-align:left;"> ![](sounds/proud-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/proud-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hate </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /heɪt/ </td>
    <td style="text-align:left;"> /heɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/hate-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hate-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> spring </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /sprɪŋ/ </td>
    <td style="text-align:left;"> /sprɪŋ/ </td>
-   <td style="text-align:left;"> ![](sounds/spring-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/spring-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> jive </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /dʒaɪv/ </td>
    <td style="text-align:left;"> /dʒaɪv/ </td>
-   <td style="text-align:left;"> ![](sounds/jive-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/jive-8.mp3) </td>
   </tr>
 </tbody>
 </table>
