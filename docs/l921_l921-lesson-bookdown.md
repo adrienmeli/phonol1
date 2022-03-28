@@ -299,7 +299,7 @@ Vowels not present in this chart:
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃɑːd/ </td>
    <td style="text-align:left;"> /ʃɑːrd/ </td>
-   <td style="text-align:left;"> ![](sounds/shard-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shard-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> gem </td>
@@ -313,56 +313,56 @@ Vowels not present in this chart:
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃɜːt/ </td>
    <td style="text-align:left;"> /ʃɜ˞ːt/ </td>
-   <td style="text-align:left;"> ![](sounds/shirt-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shirt-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> chat </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /tʃæt/ </td>
    <td style="text-align:left;"> /tʃæt/ </td>
-   <td style="text-align:left;"> ![](sounds/chat-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/chat-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> curt </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kɜːt/ </td>
    <td style="text-align:left;"> /kɜ˞ːt/ </td>
-   <td style="text-align:left;"> ![](sounds/curt-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/curt-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> jug </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /dʒʌg/ </td>
    <td style="text-align:left;"> /dʒʌg/ </td>
-   <td style="text-align:left;"> ![](sounds/jug-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/jug-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> this </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ðɪs/ </td>
    <td style="text-align:left;"> /ðɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/this-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/this-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> scheme </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /skiːm/ </td>
    <td style="text-align:left;"> /skiːm/ </td>
-   <td style="text-align:left;"> ![](sounds/scheme-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/scheme-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> sworn </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /swɔːn/ </td>
    <td style="text-align:left;"> /swɔːrn/ </td>
-   <td style="text-align:left;"> ![](sounds/sworn-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/sworn-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> gnome </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /nəʊm/ </td>
    <td style="text-align:left;"> /noʊmz/ </td>
-   <td style="text-align:left;"> ![](sounds/gnome-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/gnome-01.mp3) </td>
   </tr>
 </tbody>
 </table>
