@@ -121,7 +121,7 @@
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /læp/ </td>
    <td style="text-align:left;"> /læp/ </td>
-   <td style="text-align:left;"> ![](sounds/lap-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/lap-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> crash </td>
@@ -135,49 +135,49 @@
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /leə/ </td>
    <td style="text-align:left;"> /ler/ </td>
-   <td style="text-align:left;"> ![](sounds/lair-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/lair-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> quaint </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kweɪnt/ </td>
    <td style="text-align:left;"> /kweɪnt/ </td>
-   <td style="text-align:left;"> ![](sounds/quaint-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/quaint-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> tan </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /tæn/ </td>
    <td style="text-align:left;"> /tæn/ </td>
-   <td style="text-align:left;"> ![](sounds/tan-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/tan-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> champ </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /tʃæmp/ </td>
    <td style="text-align:left;"> /tʃæmp/ </td>
-   <td style="text-align:left;"> ![](sounds/champ-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/champ-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> lung </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /lʌŋ/ </td>
    <td style="text-align:left;"> /lʌŋ/ </td>
-   <td style="text-align:left;"> ![](sounds/lung-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/lung-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> crop </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /krɒp/ </td>
    <td style="text-align:left;"> /krɑːp/ </td>
-   <td style="text-align:left;"> ![](sounds/crop-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/crop-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> shrimp </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃrɪmp/ </td>
    <td style="text-align:left;"> /ʃrɪmp/ </td>
-   <td style="text-align:left;"> ![](sounds/shrimp-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shrimp-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> feet </td>
@@ -205,28 +205,28 @@
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /stʌf/ </td>
    <td style="text-align:left;"> /stʌf/ </td>
-   <td style="text-align:left;"> ![](sounds/stuff-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/stuff-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> bane </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /beɪn/ </td>
    <td style="text-align:left;"> /beɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/bane-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/bane-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> path </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /pɑːθ/ </td>
    <td style="text-align:left;"> /pæθ/ </td>
-   <td style="text-align:left;"> ![](sounds/path-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/path-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> form </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /fɔːm/ </td>
    <td style="text-align:left;"> /fɔːrm/ </td>
-   <td style="text-align:left;"> ![](sounds/form-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/form-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> goes </td>
@@ -240,35 +240,35 @@
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /sent/ </td>
    <td style="text-align:left;"> /sent/ </td>
-   <td style="text-align:left;"> ![](sounds/cent-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cent-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> twelfth </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /twelfθ/ </td>
    <td style="text-align:left;"> /twelfθ/ </td>
-   <td style="text-align:left;"> ![](sounds/twelfth-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/twelfth-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> swig </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /swɪg/ </td>
    <td style="text-align:left;"> /swɪg/ </td>
-   <td style="text-align:left;"> ![](sounds/swig-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/swig-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> spank </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /spæŋk/ </td>
    <td style="text-align:left;"> /spæŋk/ </td>
-   <td style="text-align:left;"> ![](sounds/spank-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/spank-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> quartz </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kwɔːts/ </td>
    <td style="text-align:left;"> /kwɔːrts/ </td>
-   <td style="text-align:left;"> ![](sounds/quartz-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/quartz-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -401,70 +401,70 @@
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /smɜːtʃ/ </td>
    <td style="text-align:left;"> smirch </td>
-   <td style="text-align:left;"> ![](sounds/smirch-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/smirch-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> scarce </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /skeəs/ </td>
    <td style="text-align:left;"> /skers/ </td>
-   <td style="text-align:left;"> ![](sounds/scarce-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/scarce-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> barge </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /bɑːdʒ/ </td>
    <td style="text-align:left;"> /bɑːrdʒ/ </td>
-   <td style="text-align:left;"> ![](sounds/barge-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/barge-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> perk </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /pɜːk/ </td>
    <td style="text-align:left;"> /pɜ˞ːk/ </td>
-   <td style="text-align:left;"> ![](sounds/perk-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/perk-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> curd </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kɜːd/ </td>
    <td style="text-align:left;"> /kɜ˞ːd/ </td>
-   <td style="text-align:left;"> ![](sounds/curd-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/curd-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> rasp </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /rɑːsp/ </td>
    <td style="text-align:left;"> /ræsp/ </td>
-   <td style="text-align:left;"> ![](sounds/rasp-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/rasp-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> beard </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /bɪəd/ </td>
    <td style="text-align:left;"> /bɪrd/ </td>
-   <td style="text-align:left;"> ![](sounds/beard-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/beard-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> shirt </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /ʃɜːt/ </td>
    <td style="text-align:left;"> /ʃɜ˞ːt/ </td>
-   <td style="text-align:left;"> ![](sounds/shirt-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shirt-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> learn </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /lɜːn/ </td>
    <td style="text-align:left;"> /lɜ˞ːn/ </td>
-   <td style="text-align:left;"> ![](sounds/learn-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/learn-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> charm </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /tʃɑːm/ </td>
    <td style="text-align:left;"> /tʃɑːrm/ </td>
-   <td style="text-align:left;"> ![](sounds/charm-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/charm-9.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -563,34 +563,34 @@ Listen to the following words and transcribe them:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> ![](sounds/throw-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/throw-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/burnt-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/burnt-4.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/deer-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/deer-5.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/class-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/class-10.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/check-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/check-2.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/hum-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hum-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/gang-2.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/snare-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/snare-9.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/light-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/light-6.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/whale-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/whale-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -605,34 +605,34 @@ Listen to the following words and transcribe them:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> ![](sounds/earth-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/earth-6.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/stroke-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/stroke-6.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/horse-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/horse-2.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/choke-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/choke-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/square-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/square-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/lame-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/lame-10.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/week-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/week-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/view-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/blush-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/blush-01.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/squint-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/squint-3.mp3) </td>
   </tr>
 </tbody>
 </table>

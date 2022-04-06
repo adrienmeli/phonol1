@@ -165,4 +165,8 @@ lesson-n10-1
 practice-common-words
 stress-imposing-suffixes
 the--ion-ian-suffixes
+lesson-n10-2
+rule
+extending-the-rule
+words-ending-with--ee-ooc
 références
